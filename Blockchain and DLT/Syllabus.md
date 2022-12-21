@@ -4,7 +4,7 @@
 	2. Elements of a blockchain
 	3. Features of Blockchain
 	4. Type of Blockchain
-2. DLT
+2. [[DLT]]
 	1. What is DLT
 	2. DLT V/S Blockchain
 3. CAP theorem

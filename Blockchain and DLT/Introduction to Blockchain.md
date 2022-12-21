@@ -11,10 +11,10 @@ Important keywords in the definitions
 	- All participants talk to each other directly
 2. **Distributed ledger**
 	- A ledger is spread across the network among all peers in the network
-	- Each peer holds a copy of thr complete ledger
+	- Each peer holds a copy of the complete ledger
 3. **Cryptographically-secure**
 	- Cryptography has been used to provide security services which make the ledger secure against tampering and misuse
-	- These include non-repundiation, data integrity and data origin
+	- These include non-repudiation, data integrity and data origin
 4. **Append-only**
 	- Data can only be added to the blockchain in _time-ordered sequential order_
 	- Once data is added to the blockchain, it is almost impossible to change that data (immutable)
@@ -31,7 +31,7 @@ Important keywords in the definitions
 
 1. **Address**
 	- unique identifiers used in blockchain transaction to denote senders and receivers
-	- usually a public key or dervied from a public key
+	- usually a public key or derived from a public key
 	- Addresses are unique i.e. users generate new address for each transaction
 2. **Transaction**
 	- Record of an event
@@ -46,7 +46,7 @@ Important keywords in the definitions
 	- Bitcoin uses Script language and Ethereum uses Solidity language.
 6. **Virtual machine**
 	- It allows code to be run on a blockchain as smart contracts
-	- Ethereum Virtual Machine (EVM) is uded in Ethereum blockchain while Chain Virtual Machine (CVM) is used in Chain Core blockchain
+	- Ethereum Virtual Machine (EVM) is used in Ethereum blockchain while Chain Virtual Machine (CVM) is used in Chain Core blockchain
 7. **State machine**
 	- Blockchain can be viewed as a state transition mechanism
 	- State is modified from initial form to the next one and eventually to a final form by nodes
@@ -57,14 +57,68 @@ Important keywords in the definitions
 	- It can perform simple payment verification and validation.
 	- It can also perform transaction signing function.
 9. **Smart Contract**
-	- These programs run on top of thr blockchain and encapsulate the business logic to be executed when certain conditions are met
-	- These programs are enforceable and automaticcaly executable
+	- These programs run on top of the blockchain and encapsulate the business logic to be executed when certain conditions are met
+	- These programs are enforceable and automatically executable
 
 # Features of Blockchain
 
+1. **Distributed consensus**
+	- It is the primary feature of blockchain
+	- It allows a blockchain to present a single version of the truth
+	- It is agreed upon by all the parties without the requirement of a central authority
+2. **Transaction verification**
+	- Transactions posted from the nodes on the blockchain are verified based on a predetermined set of rules
+	- Only valid transactions are selected for inserting in a block
+3. **Platform for smart contracts**
+	- Blockchain is a platform on which programs can run to execute business logic on behalf of the users
+	- Not all blockchain have a mechanism to execute *smart contracts*
+	- It is available on Ethereum and MultiChain
+4. **Smart Contracts**
+	- There are automated and autonomous programs that reside on the blockchain network
+	- They encapsulate the business logic and code needed to execute required function when required
+	- They can be programmed to perform any actions that blockchain users need and according to their specific business requirements
+5. **Transferring value between peers**
+	- Blockchain enables the transfer of value between its users via tokens
+	- Tokens can be thought of as a carrier of value
+6. **Generation of cryptocurrency**
+	- This is an optional feature
+	- A blockchain can create cryptocurrency as an incentive to its miners who validate the transactions and spend resources to secure the blockchain
+7. **Smart Property**
+	- It is now possible to link a digital or physical asset to the blockchain in secure and precise manner that it cannot be claimed by anyone else
+	- You are in full control of your asset and it cannot be double-spent or double-owned
+8. **Provider of security**
+	- The blockchain is based on proven cryptographic technology that ensures the integrity and availability of data
+	- Confidentiality is not provided due to the requirement of transparency
+	- This limitation is the leading barrier of its adoption by financial institutions and other industries that require privacy of transactions
+	- In Bitcoin, confidentiality is not an absolute requirement as transparency is preferred
+	- Other security services, such as non-repudiation and authentication are also provided, as all actions are secured using private keys and digital signatures
+9. **Immutability**
+	- Once records are added to the blockchain, they are immutable
+	- There is a remote possibility of rolling back changes, but this is to be avoided at all costs as doing so would consume large amount of computing resources
+	- This difficulty makes the records on a blockchain essentially immutable
+10. **Uniqueness**
+	- This feature ensures that every transaction is unique and has not already been spent (double-spend problem)
+	- This feature is especially relevant with cryptocurrencies, where detection and avoidance of double spending are a vital requirement
+
 # Type of Blockchain
 
-1. Public Blockchain
-2. Private Blockchain
-3. Hybrid Blockchain
-4. Consortium Blockchain
+### Public Blockchain
+- They are not owned by anyone
+- They are open to the public and anyone can participate as a node in the decision-making process
+- Users may or may not be rewarded for their participation
+- All users of these *permissionless* or *unpermissioned* ledgers maintain a copy of the ledger on their local nodes
+- They use a distributed consensus mechanism to decide the state of the ledger
+- e.g. Bitcoin and Ethereum
+
+### Private Blockchain
+- They are open only to a group of individuals or organization who have decided to share the ledger among themselves
+- e.g. HydraChain and Quorum
+
+### Hybrid Blockchain
+- They are also called Semiprivate blockchain
+- Part of the blockchain is private and part of it is public
+- This is just a concept and no real world POCs have yet been developed
+- The private part remains internal and shared among known participants, while the public part is open for participation by anyone
+- Blockchain as a whole can be secured using PoW, thus providing consistency and validity for both private and public parts
+
+### Consortium Blockchain
