@@ -1,9 +1,11 @@
 # Technical definition of Blockchain
+
 - Blockchain is a peer-to-peer, distributed ledger that is cryptographically-secure, append-only, immutable, and updateable only via consensus or agreement among peers.
 
 - Blockchain is an ever-growing, secure, shared record keeping system in which each user of the data holds a copy of the records, which can only be updated if all parties involved in a transaction agree to update.
 
 Important keywords in the definitions
+
 1. **Peer-to-peer**
 	- There is no central controller in the network
 	- All participants talk to each other directly
@@ -25,7 +27,7 @@ Important keywords in the definitions
 
 # Elements of a blockchain
 
-![[blockchain_generic_structure.png|550]]
+![[blockchain_generic_structure.png]]
 
 1. **Address**
 	- unique identifiers used in blockchain transaction to denote senders and receivers
