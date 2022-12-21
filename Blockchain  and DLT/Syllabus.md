@@ -1,5 +1,5 @@
 ## Module 1 - Introduction to DLT and Blockchain
-1. Introduction to Blockchain
+1. [[Introduction to Blockchain]]
 	1. Technical definition of Blockchain
 	2. Elements of a blockchain
 	3. Features of Blockchain
