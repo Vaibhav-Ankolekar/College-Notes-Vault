@@ -149,7 +149,11 @@ Use cases
 ### Hybrid Blockchain
 - They are also called Semiprivate blockchain
 - It combines elements of both private and public blockchain
-- 
+- It lest organizations set up a private, permission-based system alongside a public permissionless system
+- It allows them to control who can access specific data stored in the blockchain and what data will be open up publicly
+- Transactions and records in a hybrid blockchain are not make public but can be verified when needed, by allowing access through a smart contract
+- When user joins a hybrid blockchain, they have full access to the network
+- The user's identity is protected from other users, unless they engage in a transaction
 
 Advantages
 - Works within a closed ecosystem, outside hackers can't mount a 51% attack on the network
