@@ -27,7 +27,7 @@ Important keywords in the definitions
 
 # Elements of a blockchain
 
-![[blockchain_generic_structure.png]]
+![[blockchain_generic_structure.svg]]
 
 1. **Address**
 	- unique identifiers used in blockchain transaction to denote senders and receivers

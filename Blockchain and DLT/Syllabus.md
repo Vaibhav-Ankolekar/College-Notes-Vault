@@ -1,10 +1,10 @@
 # Module 1 - Introduction to DLT and Blockchain
-1. [[Introduction to Blockchain]]
-	1. Technical definition of Blockchain
-	2. Elements of a blockchain
-	3. Features of Blockchain
-	4. Type of Blockchain
-2. [[DLT]]
+1. [[Introduction to Blockchain|Introduction to Blockchain]]
+	1. [[Introduction to Blockchain#Technical definition of Blockchain|Technical definition of Blockchain]]
+	2. [[Introduction to Blockchain#Elements of a blockchain|Elements of a blockchain]]
+	3. [[Introduction to Blockchain#Features of Blockchain|Features of Blockchain]]
+	4. [[Introduction to Blockchain#Type of Blockchain|Type of Blockchain]]
+2. [[DLT|DLT]]
 	1. What is DLT
 	2. DLT V/S Blockchain
 3. CAP theorem
