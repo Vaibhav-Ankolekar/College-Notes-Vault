@@ -102,7 +102,8 @@ Important keywords in the definitions
 
 # Type of Blockchain
 
-### Public Blockchain
+## Public Blockchain
+
 - They are not owned by anyone
 - They are open to the public and anyone can participate as a node in the decision-making process
 - Users may or may not be rewarded for their participation
@@ -110,15 +111,81 @@ Important keywords in the definitions
 - They use a distributed consensus mechanism to decide the state of the ledger
 - e.g. Bitcoin and Ethereum
 
+Advantages
+- They are completely independent of organizations, so if the organization that started it disappear or leaves, the public blockchain will still be able to run
+- Some blockchains provides rewards for users who commit computer power to secure the network
+- The network's transparency and security
+
+Disadvantages
+- The network can be slow and companies can't restrict access or use. The network slows down as more nodes join the network
+- If hackers gain 51% or more of the computing power of a public blockchain network, they can alter it
+- They don't scale well
+
+Uses cases
+- Mining and exchanging cryptocurrencies like Bitcoin
+- Creating fixed record with an auditable chain of custody such as electronic notarization of affidavits and public records of property ownership
+
 ### Private Blockchain
 - They are open only to a group of individuals or organization who have decided to share the ledger among themselves
+- They work in a restrictive environment like a closed network or under the control of a single entity
+- Also known as permissioned or enterprise blockchain
 - e.g. HydraChain and Quorum
+
+Advantages
+- Controlling organization sets permission levels, security authorizations and accessibility
+- It determines which nodes can view, add or changed data
+- It prevents third parties from accessing certain information
+- Because they're limited in size, private blockchains can be very fast and can process transactions much more quickly than public blockchain
+
+Disadvantages
+- They aren't considered true blockchain
+- Difficult to fully achieve trust in the information, since centralized nodes determine what is valid
+- Small number of nodes can also mean less security and also biased consensus method
+
+Use cases
+- Speed of private blockchain makes them ideal for cases where the blockchain needs to be cryptographically secure
+- Supply chain management, asset ownership and internal voting
 
 ### Hybrid Blockchain
 - They are also called Semiprivate blockchain
-- Part of the blockchain is private and part of it is public
-- This is just a concept and no real world POCs have yet been developed
-- The private part remains internal and shared among known participants, while the public part is open for participation by anyone
-- Blockchain as a whole can be secured using PoW, thus providing consistency and validity for both private and public parts
+- It combines elements of both private and public blockchain
+- 
+
+Advantages
+- Works within a closed ecosystem, outside hackers can't mount a 51% attack on the network
+- It also protects privacy but allows for communication with third parties
+- Transactions are cheap and fast
+- It offers better scalability than a public blockchain network
+
+Disadvantages
+- This isn't completely transparent because information can be shielded
+- Upgrading can also be a challenge
+- There is no incentive for users to participate or contribute to the network
+
+Use cases
+- Companies can use a hybrid blockchain to run systems privately but show certain information, such as listings, to the public
+- Medical records can be stored in a hybrid blockchain
 
 ### Consortium Blockchain
+- Also known as a federated blockchain
+- It is similar to a hybrid blockchain, i.e. having both private and public blockchain features
+- Multiple organizational members collaborate on a decentralized network
+- It is private blockchain with limited access to a particular group, eliminating the risks that come with just one entity controlling the network on a private blockchain
+- The consensus procedures are controlled by preset nodes
+- It has a validator node that initiates, receives and validates transactions
+- Member nodes can receive or initiate transactions
+
+Advantages
+- These tends to be more secure, scalable and efficient than a public blockchain
+- Like private and hybrid blockchain, it also offers access controls
+
+Disadvantages
+- It is less transparent than public blockchain
+- It can still be compromised if a member node is breached
+- The blockchain's own regulations can impair the network's functionality
+
+Use cases
+- Banking and payment are two uses for this type of blockchain
+- Different banks can band together and form a consortium, deciding which nodes will validate the transactions
+- Research organizations can also create a consortium model
+- It's ideal for supply chains, particularly food and medicine applications
