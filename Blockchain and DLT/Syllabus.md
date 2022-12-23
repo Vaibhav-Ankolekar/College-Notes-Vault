@@ -5,8 +5,8 @@
 	3. [[Introduction to Blockchain#Features of Blockchain|Features of Blockchain]]
 	4. [[Introduction to Blockchain#Type of Blockchain|Type of Blockchain]]
 2. [[DLT|DLT]]
-	1. What is DLT
-	2. DLT V/S Blockchain
+	1. [[DLT#What is DLT|What is DLT]]
+	2. [[DLT#DLT v/s Blockchain|DLT V/S Blockchain]]
 3. CAP theorem
 4. Byzantine Generals Problem
 5. Consensus Mechanism
