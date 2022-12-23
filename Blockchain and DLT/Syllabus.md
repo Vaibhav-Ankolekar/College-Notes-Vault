@@ -7,8 +7,8 @@
 2. [[DLT|DLT]]
 	1. [[DLT#What is DLT|What is DLT]]
 	2. [[DLT#DLT v/s Blockchain|DLT V/S Blockchain]]
-3. CAP theorem
-4. Byzantine Generals Problem
+3. [[CAP theorem]]
+4. [[Byzantine Generals Problem]]
 5. Consensus Mechanism
 	1. Type Cryptographic primitives
 6. Data structure used in blockchain
