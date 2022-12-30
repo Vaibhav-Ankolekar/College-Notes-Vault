@@ -12,7 +12,7 @@
 5. [[Consensus Mechanism]]
 	1. [[Type Cryptographic primitives]]
 6. Data structure used in blockchain
-7. Block in a Blockchain
+7. [[Block in a Blockchain]]
 	1. Structure of a Block
 	2. Block Header Hash and Block Height
 	3. The Genesis Block
