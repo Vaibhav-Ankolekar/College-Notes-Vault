@@ -1,23 +1,25 @@
 # Module 1 - Introduction to DLT and Blockchain
-1. [[Introduction to Blockchain|Introduction to Blockchain]]
-	1. [[Introduction to Blockchain#Technical definition of Blockchain|Technical definition of Blockchain]]
-	2. [[Introduction to Blockchain#Elements of a blockchain|Elements of a blockchain]]
-	3. [[Introduction to Blockchain#Features of Blockchain|Features of Blockchain]]
-	4. [[Introduction to Blockchain#Type of Blockchain|Type of Blockchain]]
+1. [[Introduction to Blockchain | Introduction to Blockchain]]
+	1. [[Introduction to Blockchain#Technical definition of Blockchain | Technical definition of Blockchain]]
+	2. [[Introduction to Blockchain#Elements of a blockchain | Elements of a blockchain]]
+	3. [[Introduction to Blockchain#Features of Blockchain | Features of Blockchain]]
+	4. [[Introduction to Blockchain#Type of Blockchain | Type of Blockchain]]
 2. [[DLT|DLT]]
-	1. [[DLT#What is DLT|What is DLT]]
-	2. [[DLT#DLT v/s Blockchain|DLT V/S Blockchain]]
+	1. [[DLT#What is DLT | What is DLT]]
+	2. [[DLT#DLT v/s Blockchain | DLT V/S Blockchain]]
 3. [[CAP theorem]]
 4. [[Byzantine Generals Problem]]
 5. [[Consensus Mechanism]]
 	1. [[Type Cryptographic primitives]]
 6. Data structure used in blockchain
 7. [[Block in a Blockchain]]
-	1. Structure of a Block
-	2. Block Header Hash and Block Height
-	3. The Genesis Block
-	4. Linking Blocks in the Blockchain
-	5. Merkle Tree
+	1. [[Block in a Blockchain#Structure of a Block | Structure of a Block]]
+	2. [[Block in a Blockchain#Structure of a Block Header | Structure of a Block Header]]
+	3. [[Block in a Blockchain#Block Header Hash | Block Header Hash]]
+	4. [[Block in a Blockchain#Block Height | Block Height]]
+	5. The Genesis Block
+	6. Linking Blocks in the Blockchain
+	7. Merkle Tree
 
 # Module 2 - Bitcoin
 1. What is Bitcoin 

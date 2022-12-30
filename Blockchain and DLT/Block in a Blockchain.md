@@ -18,7 +18,7 @@
 | Transaction Counter | 1-9 bytes (VarInt) | Total number of transactions in the block |
 | Transactions | Variable | All transactions recorded in this block |
 
-## Block Header
+## Structure of a Block Header
 
 - It consist of three sets of block metadata
 1. Reference to a previous block hash, which connects this block to the previous block in the blockchain
