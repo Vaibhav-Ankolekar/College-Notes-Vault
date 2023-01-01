@@ -19,7 +19,7 @@
 	4. [[Block in a Blockchain#Block Height | Block Height]]
 	5. [[Block in a Blockchain#The Genesis Block | The Genesis Block]]
 	6. [[Block in a Blockchain#Linking Blocks in the Blockchain | Linking Blocks in the Blockchain]]
-	7. [[Block in a Blockchain#Merkle Tree | Merkle Tree]]
+	7. [[Merkle Tree]]
 
 # Module 2 - Bitcoin
 1. What is Bitcoin 
