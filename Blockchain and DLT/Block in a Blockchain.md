@@ -1,3 +1,5 @@
+![[blockchain-data-structure.svg]]
+
 ## Structure of a Block
 
 - A block is a container data structure that aggregates transactions for inclusion in the public ledger, the blockchain
@@ -57,8 +59,6 @@
 - Two or more block might have the same block height, competing for the same position in the blockchain
 - It is also not a part of the block's data structure
 - It can be stored as metadata in an indexed database for fast retrieval
-
-![[blockchain-data-structure.svg]]
 
 ## The Genesis Block
 
@@ -149,11 +149,44 @@ $$H_A = SHA256(SHA256(Transaction A))$$
 $$H_{AB} = SHA256(SHA256(H_A + H_B))$$
 - The process continues until there is only one node at the top, the node known as the Merkle root
 - That 32-byte hash is stored in the block header and summarizes all the data in all four transactions
-
 ---
+
 ![[merkle-tree-example2.svg]]
 
 - The Merkle tree is a binary tree, it needs an even number of leaf nodes
 - If there is an odd number of transactions to summarize, the last transaction hash will be duplicated to create an even number of leaf nodes
 - This make Merkle tree a *balanced tree*
 - Here, If we have only 3 transactions A, B and C then transaction C is duplicated
+---
+
+![[merkle-tree-example3.svg]]
+
+- Same method for constructing a tree from four transactions can be generalized to construct trees of any size
+- In Bitcoin, it is common to have thousand transactions in a single block
+- These are summarized in exactly same way, producing just 32 bytes of data as the single Merkle root
+- In above, a tree is built from 16 transactions
+- Although the root looks bigger, it is the exact same size, just 32 bytes
+- The Merkle root will always summarize hundred thousand transactions into 32 bytes
+---
+
+![[merkle-tree-example4.svg]]
+
+- To find if a specific transaction is included in a block, a node only needs to produce $log_2(N)$ 32-byte hashes
+- These hashes form a path called *authentication path* or *Merkle path*
+- As the number of transaction increases, the base-2 logarithm of number of transaction increases slowly
+- This allow Bitcoin nodes to efficiently produce paths of 10 or 12 hashes which can provide proof of a single transaction out of more than a thousand transactions in a block
+- A node can find that a transaction K is included in the block by producing a Merkle path that is only four 32-byte hashes long (128 bytes)
+- The path consists of the four hashes H$_L$, H$_{IJ}$, H$_{MNOP}$ and H$_{ABCDEFGH}$
+- With these 4 hashes provided, the node can find that H$_{K}$ is included in the Merkle root by computing 4 additional pair-wise hashes H$_{KL}$, H$_{IJKL}$, H$_{IJKLMNOP}$ and the Merkle root
+
+Amount of data that needs to be exchanged as a Merkle path to find if a transaction is part of a block or not
+
+| Number of transactions | Aprrox. size of block | Path size (hashes) | Path size (bytes) |
+|---|---|---|---|
+| 16 transactions | 4 kilobytes | 4 hashes | 128 bytes |
+| 512 transactions | 128 kilobytes | 9 hashes | 288 bytes |
+| 2048 transactions | 512 kilobytes | 11 hashes | 352 bytes |
+| 65,535 transactions | 16 megabytes | 16 hashes | 512 bytes |
+
+- Nodes that do not store a full blockchain is called Simplified Payment Verification (SPV) nodes
+- These use Merkle paths to verify transactions without downloading full blocks
