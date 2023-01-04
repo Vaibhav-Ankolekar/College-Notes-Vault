@@ -22,29 +22,30 @@
 	7. [[Merkle Tree]]
 
 # Module 2 - Bitcoin
-1. What is Bitcoin 
-2. History of Bitcoin
-3. Bitcoin Transactions
-4. Bitcoin Concepts
+1. [[What is Bitcoin]]
+2. [[History of Bitcoin]]
+3. Bitcoin Concepts
 	1. Keys
 	2. Addresses
 	3. Wallets
-5. Bitcoin Transactions - UTXO
-7. Validation of transactions
-8. Bitcoin Keys and Addresses
+4. Bitcoin Transactions
+	1. UTXO (119, 123, 155)
+	2. Validation of transactions
+5. Bitcoin Keys and Addresses (chapter 4)
 	1. ECC
 	2. Base58
 	3. BIP-38
-	4. Pay-to Script and Multisig Addresses
+	4. Pay-to Script Hash (P2SH) and Multisig Addresses
 	5. Vanity Addresses
-10. Concept of Wallet
+6. Concept of Wallet (chapter 5)
 	1. Wallet Technologies in Bitcoin 
 	2. HD wallet from Seed
-11. Transaction Scripts and Scripts address
-12. Bitcoin Mining
-13. Difficulty levels Structure of Blocks and Blockheader and Genesis Block
-14. Linking of Block.
-15. Bitcoin Network
+7. Transaction Scripts and Scripts address
+8. Bitcoin Mining
+9. Difficulty levels 
+10. [[Block in a Blockchain | Structure of Blocks and Block Header and Genesis Block ]]
+11. [[Block in a Blockchain#Linking Blocks in the Blockchain | Linking of Block ]]
+12. Bitcoin Network (chapter 8)
 	1. Bitcoin Core node and API
 	2. Peer-to-Peer Network Architecture
 	3. Node Types and Roles
@@ -57,9 +58,10 @@
 	10. Simplified Payment Verification (SPV) Nodes
 	11. SPV Nodes and Privacy
 	12. Transaction Pools
-	13. Blockchain Forks Bitcoin Testnet Basics of Bitcoin Forensics
-		1. Analysis of Address and Wallet 
-		2. Clustering of Addresses following Money
+13. Blockchain Forks Bitcoin Testnet (chapter 9)
+14. Basics of Bitcoin Forensics
+	1. Analysis of Address and Wallet 
+	2. Clustering of Addresses following Money
 
 # Module 3 - Permissionless Blockchain: Ethereum
 1. Introduction to Ethereum
