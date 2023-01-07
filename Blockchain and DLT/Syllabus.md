@@ -25,27 +25,28 @@
 1. [[What is Bitcoin]]
 2. [[History of Bitcoin]]
 3. Bitcoin Concepts
-	1. Keys
+	1. [[Bitcoin Keys | Keys]]
 	2. Addresses
 	3. Wallets
-4. Bitcoin Transactions
-	1. UTXO (119, 123, 155)
-	2. Validation of transactions
-5. Bitcoin Keys and Addresses (chapter 4)
-	1. ECC
+	4. Transactions
+4. Bitcoin Keys and Addresses (chapter 4)
+	1. [[Elliptic Curve Cryptography | ECC]]
 	2. Base58
 	3. BIP-38
 	4. Pay-to Script Hash (P2SH) and Multisig Addresses
 	5. Vanity Addresses
-6. Concept of Wallet (chapter 5)
+5. Concept of Wallet (chapter 5)
 	1. Wallet Technologies in Bitcoin 
 	2. HD wallet from Seed
-7. Transaction Scripts and Scripts address
-8. Bitcoin Mining
-9. Difficulty levels 
-10. [[Block in a Blockchain | Structure of Blocks and Block Header and Genesis Block ]]
-11. [[Block in a Blockchain#Linking Blocks in the Blockchain | Linking of Block ]]
-12. Bitcoin Network (chapter 8)
+6. Bitcoin Transactions (chapter 6)
+	1. UTXO (119, 123, 155)
+	2. Validation of transactions
+	3. Transaction Scripts and Scripts address
+7. Bitcoin Mining (chapter 10)
+8. Difficulty levels 
+9. [[Block in a Blockchain | Structure of Blocks and Block Header and Genesis Block ]]
+10. [[Block in a Blockchain#Linking Blocks in the Blockchain | Linking of Block ]]
+11. Bitcoin Network (chapter 8)
 	1. Bitcoin Core node and API
 	2. Peer-to-Peer Network Architecture
 	3. Node Types and Roles
@@ -58,8 +59,8 @@
 	10. Simplified Payment Verification (SPV) Nodes
 	11. SPV Nodes and Privacy
 	12. Transaction Pools
-13. Blockchain Forks Bitcoin Testnet (chapter 9)
-14. Basics of Bitcoin Forensics
+12. Blockchain Forks Bitcoin Testnet (chapter 9)
+13. Basics of Bitcoin Forensics
 	1. Analysis of Address and Wallet 
 	2. Clustering of Addresses following Money
 
