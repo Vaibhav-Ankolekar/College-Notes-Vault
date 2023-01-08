@@ -24,3 +24,63 @@ $$y^2 = \frac{x^3+7}{F_p} \;\;\;\;\; or \;\;\;\;\; y^2 \; mod \; p = (x^3+7) \; 
 ![[ecc_17.svg]]
 - The figure shows the same elliptic curve over a much smaller finite field of prime order 17, showing a pattern of dots on a grid
 ---
+For example
+- the following is a point P with coordinates (x,y) that is a point on the `secp256k1` curve :
+
+```python
+P = (55066263022277343669578718895168534326250603453777594175500187360389116729240,
+32670510020758816978083085130507043184471273380659243275938904335757337482424)
+```
+- Using Python to confirm that this point is on the elliptic curve
+```python
+>>> p =
+115792089237316195423570985008687907853269984665640564039457584007908834671663
+>>> x =
+55066263022277343669578718895168534326250603453777594175500187360389116729240
+>>> y =
+32670510020758816978083085130507043184471273380659243275938904335757337482424
+>>> (x ** 3 + 7 - y**2) % p
+0
+```
+---
+- In elliptic curve math, there is a point called the *point at infinity* which roughly corresponds to the role of zero in addition
+- It is represented by $x = y = 0$
+- There is also a $+$ operator called *addition*, which have some properties similar to the traditional addition of real numbers
+- Given two points $P_1$ and $P_2$ on the elliptic curve, there is a third $P_3 = P_1 + P_2$, also on the elliptic curve
+- $P_3$ is calculated by drawing a line between $P_1$ and $P_2$
+- This line will intersect the elliptic curve in exactly one additional place
+- Call this point $P'_3 = (x,y)$
+- Then reflect in the x-axis to get $P_3 = (x,-y)$
+---
+- If $P_1$ and $P_2$ are the same point, the line between $P_1$ and $P_2$ should extend to be the tangent on the curve at the point $P_1$
+- This tangent will intersect the curve in exactly one new point
+- We can use calculus techniques to determine the slope of the tangent line
+---
+- If $P_1$ and $P_2$  have the same x values but different y values then the tangent line will be vertical, in which case $P_3$ = *point at infinity*
+- If $P_1$ is the *point at infinity* then $P_1 + P_2 = P_2$
+- If $P_2$ is the *point at infinity* then $P_1 + P_2 = P_1$
+- This shows the *point at infinity* plays the role of zero
+---
+- $+$ is associative, which means that $(A + B) + C = A + (B + C)$
+- We can write $A + B + C$ without parentheses without ambiguity
+---
+Multiplication
+- For a point P on the elliptic curve, if k is a whole number, then
+$$
+kP = P + P + P + ... + P \;\; (k \; times)
+$$
+---
+**Generating a Public Key**
+- Randomly generated number *k* is the private key
+- The *generator point G* is the predetermined point on the curve
+- The number *k* and point *G* is multiplied to produce another point son the curve which is the public key *K*
+- The generator point is specified as part of the `secp256k1` standard and is always same for all keys in bitcoin
+$$
+K = k * G
+$$
+- where *k* is the private key, *G* is the generator point and *K* is the resulting public key
+- As the generator point is always the same for all bitcoin users, a private key *k* multiplied with *G* will always result in the same public key *K*
+- The relationship between *k* and *K* is fixed, but can only be calculated in one direction, from *k* to *K*
+- That's why bitcoin address (derived from *K*) can be shared with anyone and does not reveal the user's private key (*k*)
+- A private key can be converted into public key, but a public key cannot be converted back into a private key because the math only works one way
+- 
