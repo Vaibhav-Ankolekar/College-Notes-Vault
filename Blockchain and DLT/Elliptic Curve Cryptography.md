@@ -10,6 +10,9 @@ Elliptic curve multiplication
 **Elliptic Curve Cryptography**
 - It is based on discrete logarithm problem as expressed by addition and multiplication on the points of an elliptic curve
 - It is used to generate public and private keys in the Bitcoin network
+
+![[ecc_curve.png | 300]]
+
 - Bitcoin uses a specific elliptic curve and set of mathematical constants as defined in a standard called `secp256k1`
 - The `secp256k1` curve is defined by
 
@@ -21,7 +24,7 @@ $$y^2 = \frac{x^3+7}{F_p} \;\;\;\;\; or \;\;\;\;\; y^2 \; mod \; p = (x^3+7) \; 
 - It looks like a pattern of dots scattered in two dimensions, which makes it difficult to visualize
 - The math is identical to that of an elliptic curve over real numbers
 ---
-![[ecc_17.svg]]
+![[ecc_17.svg | 400]]
 - The figure shows the same elliptic curve over a much smaller finite field of prime order 17, showing a pattern of dots on a grid
 ---
 For example
@@ -83,4 +86,25 @@ $$
 - The relationship between *k* and *K* is fixed, but can only be calculated in one direction, from *k* to *K*
 - That's why bitcoin address (derived from *K*) can be shared with anyone and does not reveal the user's private key (*k*)
 - A private key can be converted into public key, but a public key cannot be converted back into a private key because the math only works one way
-- 
+---
+For example
+- We take the private key *k* generated and multiply it with generator point *G* to find the public key *K*:
+```
+K = 1E99423A4ED27608A15A2616A2B0E9E52CED330AC530EDCC32C8FFC6A526AEDD * G
+```
+- Public key *K* is defined as a point `K = (x, y)`, where
+```
+x = F028892BAD7ED57D2FB57BF33081D5CFCF6F9ED3D3D7F159C2E2FFF579DC341A
+y = 07CF33DA18BD734C600B96A72BBC4749D5141C90EC8AC328AE52DDFE2E505BDB
+```
+---
+- Finding the multiple *kG* is same as adding *G* to itself *k* times in a row
+- In elliptic curves, adding a point to itself is equivalent to 
+	- drawing a tangent line on the point
+	- finding where it intersects the curve again 
+	- reflecting that point on the x-axis
+
+![[ecc_multiply.png | 500]]
+
+- Visualizing the multiplication of a point G by an integer k on an elliptic curve
+- It shows the process of deriving G, 2G, 4G, as geometric operation on the curve
