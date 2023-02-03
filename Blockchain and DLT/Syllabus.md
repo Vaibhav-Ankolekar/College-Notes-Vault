@@ -26,12 +26,12 @@
 2. [[History of Bitcoin]]
 3. Bitcoin Concepts
 	1. [[Bitcoin Keys | Keys]]
-	2. Addresses
+	2. [[Bitcoin Addresses | Addresses]]
 	3. Wallets
 	4. Transactions
 4. Bitcoin Keys and Addresses (chapter 4)
 	1. [[Elliptic Curve Cryptography | ECC]]
-	2. Base58
+	2. [[Base58 and Base58Check Encoding | Base58]]
 	3. BIP-38
 	4. Pay-to Script Hash (P2SH) and Multisig Addresses
 	5. Vanity Addresses
