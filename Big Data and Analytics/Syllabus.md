@@ -20,7 +20,7 @@
 	2. Graph stores
 	3. Column family (Big table) stores
 	4. Document stores
-	5. MongoDB
+5. MongoDB
 
 # Module 3 - MapReduce Paradigm
 

@@ -16,7 +16,7 @@ $$ A = RIPEMD160(SHA256(K)) $$
 	- human readability
 	- avoid ambiguity
 	- protect against errors in address transcription and entry
-
+---
 ![[public_key_to_bitcoin_address.svg]]
 Conversion of a public key into a bitcoin address
 
