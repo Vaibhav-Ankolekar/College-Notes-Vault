@@ -1,4 +1,4 @@
-# Module 1 - Introduction to DLT and Blockchain
+# M1 - Introduction to DLT and Blockchain
 1. [[Introduction to Blockchain | Introduction to Blockchain]]
 	1. [[Introduction to Blockchain#Technical definition of Blockchain | Technical definition of Blockchain]]
 	2. [[Introduction to Blockchain#Elements of a blockchain | Elements of a blockchain]]
@@ -21,7 +21,7 @@
 	6. [[Block in a Blockchain#Linking Blocks in the Blockchain | Linking Blocks in the Blockchain]]
 	7. [[Merkle Tree]]
 
-# Module 2 - Bitcoin
+# M2 - Bitcoin
 1. [[What is Bitcoin]]
 2. [[History of Bitcoin]]
 3. Bitcoin Concepts
@@ -64,7 +64,7 @@
 	1. Analysis of Address and Wallet 
 	2. Clustering of Addresses following Money
 
-# Module 3 - Permissionless Blockchain: Ethereum
+# M3 - Permissionless Blockchain: Ethereum
 1. Introduction to Ethereum
 2. Ethereum 1.0 and 2.0
 3. Ethereum and Turing Completeness
@@ -82,8 +82,23 @@
 	5. Transaction Values and Data
 	6. Transmitting Values to EOA and Contracts
 
-# Module 4 - Permissioned Blockchain: Hyperledger Fabric
+# M4 - Permissioned Blockchain: Hyperledger Fabric
 
-# Module 5 - Crypto assets and Cryptocurrencies
+1. Introduction to Framework (Hyperledger Fabric)
+	1. Tools of Hyperledger Fabric Blockchain
+	2. Architecture of Hyperledger Fabric Blockchain
+2. Components
+	1. Certificate Authority
+	2. Nodes
+	3. Chain codes
+	4. Channels
+	5. Consensus
+		1. Solo, Kafka, RAFT
+3. Designing Hyperledger Blockchain
+4. Challenges
+	1. Interoperability of blockchain
+	2. Scalability of blockchain
 
-# Module 6 - Blockchain Applications & case studies
+# M5 - Crypto assets and Cryptocurrencies
+
+# M6 - Blockchain Applications & case studies
