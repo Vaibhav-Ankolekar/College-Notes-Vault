@@ -40,26 +40,121 @@ The NEP plays a crucial role in environmental management, by providing a coheren
 ---
 ### Q3. Write the roles of Central Pollution Control Board 
 
+1. To advise the Central Government on any matter concerning the improvement of the quality of air and water and the prevention and control or abatement of air/water pollution.
+2. Plan and cause to be executed a nation-wide programme for the prevention, control or abatement of air and water pollution.
+3. Coordinate the activities of the State Boards and resolve disputes among them. 
+4. Provide technical assistance and guidance to the State Boards, carry out and sponsor investigations and research relating to problems of air pollution and prevention, control or abatement of air and water pollution. 
+5. Plan and organize the training of persons engaged or to be engaged in programmes for prevention, control or abatement of air and water pollution on such terms and conditions as the Central Pollution Board may specify. 
+6. Organize through mass media a comprehensive programme regarding prevention, control or abatement of air and water pollution. 
+7. Collect, compile and publish technical and statistical data relating to air/water pollution and the measures devised for its effective prevention and control or abatement and prepare manuals, codes or guides relating to prevention, control or abatement of air and water pollution. 
+8. Lay down standards for the quality of air and water. 
+9. Collect and disseminate information in respect of matters relating to air and water pollution.
 
 ---
 ### Q4. Write the roles of State Pollution Control Board
 
+1. To plan a comprehensive programme for the prevention, control or abatement of air and water pollution and to secure the execution thereof.
+2. To advise the State Government on any matter concerning the prevention, control or abatement of air and water pollution.
+3. To collect and disseminate information relating to air and water pollution.
+4. To collaborate with the Central Board in organizing the training of persons engaged or to be engaged in programmes relating to prevention, control of abatement or air and water pollution.
+5. Provide technical assistance and guidance to carry out sponsor investigations and research relating to problems of water, air pollution and prevention, control or abatement of water and air pollution.
+6. Lay down, modify or annual in consultation with the State Government, the standards for a stream or well and for the quality of air.
+7. Advise the State Government with respect to the location or suitability of any premises for carrying on any industry which is likely to pollute a stream or well or cause air and water pollution.
+8. Lay down standards for treatment of sewage and trade effluents and for exhaust and stack gas clearing systems for industrial plants.
+9. Identify area or areas within the State as Water Pollution Prevention and Control Area or Areas. The State Government may declare any area or areas within the State as Water Pollution Prevention and Control Area or Areas.
+10. Identify area or areas within State as Air Pollution Control Area or Areas for the purpose of the Air (Prevention and Control of Pollution) Act, 1981. The State Government may declare area or areas within the State as Air Pollution Control Area.
 
 ---
 ### Q5. What is Corporate Environment responsibility?
 
+- Page no. (4-19)
 
+Corporate Environmental Responsibility (CER) refers to the environmental responsibilities and obligations that companies and organizations have towards the environment, society, and future generations. 
+
+- It involves adopting sustainable practices, minimizing the negative impact of business activities on the environment, and contributing to the conservation of natural resources.
+- CER encompasses various aspects of environmental management, such as reducing pollution and waste, complying with environmental regulations, conducting environmental impact assessments, engaging stakeholders, and contributing to environmental conservation. 
+- Companies can demonstrate CER by implementing eco-friendly practices and technologies, promoting transparency and accountability, and working towards sustainable development.
+- CER is an essential aspect of modern business practices, as it promotes a balance between economic development and environmental protection. 
+- By taking responsibility for their environmental impact, companies can build trust and support among stakeholders, improve their reputation, and contribute to a healthier and more sustainable future.
+
+Corporate Environmental Responsibility (CER) involves identifying, mitigating, and evaluating the environmental impacts of a company's activities. Here are the three steps in more detail:
+
+1. ***Identify*** - The first step in CER is to identify the environmental impacts of a company's activities. This involves assessing the impact of the company's operations on the environment, including energy consumption, water usage, waste generation, and emissions.
+2. ***Mitigate*** - Once the environmental impacts have been identified, the next step is to mitigate them. This involves adopting sustainable practices and technologies to reduce the negative impact of the company's operations on the environment. Examples of mitigation measures include reducing energy consumption, increasing the use of renewable energy sources, minimizing waste generation, and reducing emissions.
+3. ***Evaluate*** - The final step in CER is to evaluate the effectiveness of the mitigation measures. This involves monitoring and measuring the environmental performance of the company and comparing it to the goals and objectives outlined in the environmental policy. Based on the evaluation, companies can identify areas for improvement and adjust their strategies accordingly.
 ---
 ### Q6. Write the Roles and Objectives of Ministry of Environment and Forest
 
+The five main objectives of the MoEF are:
+
+1. ***Conservation and survey of flora, fauna, forests, and wildlife*** - The MoEF aims to conserve India's rich biodiversity, including its flora and fauna, through the protection and management of national parks, wildlife sanctuaries, and other protected areas. The ministry also conducts surveys and research to better understand India's biodiversity and inform conservation efforts.
+
+2. ***Prevention and control of pollution*** - The MoEF is responsible for preventing and controlling various forms of pollution, including air, water, and soil pollution. The ministry develops and implements regulations and policies to regulate industrial emissions, vehicular emissions, and other sources of pollution.
+
+3. ***Afforestation and regeneration of degraded areas*** - The MoEF aims to increase India's forest cover through afforestation and regeneration of degraded areas. This includes promoting community-based forest management and forest restoration efforts.
+
+4. ***Protection of environment*** -  The MoEF aims to protect the environment from various forms of degradation, including soil erosion, desertification, and deforestation. The ministry works to promote sustainable development practices that balance economic growth with environmental protection.
+
+5. ***Ensuring the welfare of animals*** - The MoEF is responsible for ensuring the welfare of animals in India, including livestock, wildlife, and domestic animals. The ministry works to prevent cruelty to animals and promote their conservation and protection.
 
 ---
 ### Q7. Write a note on Environment Protect Act 1986
 
 
----
-### Q8. Describe Wild Life protection act
 
+---
+### Q8. Describe Wild Life protection act 1972
+
+- Wildlife is an important part of the environment
+- This includes trees, birds, animals, etc.
+- However, people, in the process of growth and development and also for self-interest, cause a lot of damage to the forest and wildlife
+- Wildlife is a gift from nature, and its fall has a negative impact on the environment. So, it is urgently needed to protect wildlife
+- Therefore, to protect wildlife from extinction, the Indian Parliament passed the Wildlife Protection Act (1972)
+
+#### Objectives of the Wildlife Protection Act 1972
+
+- To safeguard and develop the environment
+- To carry out the conclusions reached at the 1972 United Nations Conference on the Human Environment in Stockholm
+- To punish anyone who harms the environment
+- Enforcing environmental regulations in locations not covered by existing legislation
+- Give the central government complete authority to enact severe environmental protection measures
+- The main purpose of the law is to ensure the protection of wildlife, birds, and plants
+- The law gives the federal government the power to declare certain areas such as a sanctuary or a national park, wildlife hunting bans and bring punishment for their violation
+
+#### Salient Features of the Act
+
+- **Prohibition of hunting:** It prohibits the hunting of any wild animal specified in Schedules I, II, III and IV of the act.  
+
+- **Prohibition of Cutting/Uprooting Specified Plants:** It prohibits the uprooting, damage, collection, possession or selling of any specified plant from any forest land or any protected area. 
+
+- **Declaration and Protection of Wildlife Sanctuaries and National Parks:** The Central Government can constitute any area as a Sanctuary, provided the area is of adequate ecological, faunal, floral, geomorphological, natural or zoological significance.  
+	- The government can also declare an area (including an area within a sanctuary) as a National Park.
+	
+	- A Collector is appointed by the central government to administer the area declared as a Sanctuary.
+
+- **Constitution of Various Bodies:** The WPA act provides for the constitution of bodies to be established under this act such as the National and State Board for Wildlife, Central Zoo Authority and National Tiger Conservation Authority.
+
+- **Government Property:** Hunted wild animals (other than vermin), animal articles or meat of a wild animal and ivory imported into India and an article made from such ivory shall be considered as the property of the Government.
+
+#### Schedules under the Act
+
+The Wildlife (Protection) Act, 1972 has divided the protection status of various plants and animals under the following six schedules:
+
+- **Schedule I:**  
+    - It covers endangered species that need rigorous protection. The species are granted protection from poaching, killing, trading etc.
+    - A person is liable to the harshest penalties for violation of the law under this Schedule.
+    - Species under this Schedule are prohibited to be hunted throughout India, except under threat to human life or in case of a disease that is beyond recovery.
+- **Schedule II:**  
+    - Animals under this list are also accorded high protection with the prohibition on their trade.
+    - They cannot be hunted except under threat to human life or if they are suffering from a disease/ disorder that goes beyond recovery.
+- **Schedule III & IV:**  
+    - Species that are not endangered are included under Schedule III and IV.
+    - This includes protected species with hunting prohibited but the penalty for any violation is less compared to the first two schedules.
+- **Schedule V:**  
+    - This schedule contains animals that are considered as vermin(small wild animals that carry disease and destroy plants and food). These animals can be hunted.
+- **Schedule VI:**  
+    - It provides for **regulation in cultivation of a specified plant** and restricts its possession, sale and transportation.
+    - Both cultivation and trade of specified plants can only be carried out with prior permission of competent authority.
 
 ---
 ### Q9. Explain ISO-14000
