@@ -62,6 +62,24 @@ In summary, the Golden Rules of User Interface Design simplify user interface de
 ---
 ### Q6. What is the goal of your data gathering session ?
 
+The goal of a data gathering session in the context of user interface design is to collect information and insights about the users, their needs, and the context of use. This information is then used to inform the design of the user interface to ensure that it meets the needs of the users and is easy and efficient to use.
+
+During a data gathering session, a variety of techniques can be used to collect data, such as interviews, surveys, observations, and focus groups. The data collected can include demographic information, user goals and tasks, user preferences, user feedback, and usability issues.
+
+The ultimate goal of a data gathering session is to gain a deep understanding of the users and their needs, so that the resulting user interface design is effective, efficient, and satisfying to use. By collecting and analyzing data, user interface designers can create designs that are tailored to the needs of their target audience and that meet the requirements of the organization or project.
+
+Some of the common goals of a data gathering session in user interface design are:
+
+1. ***To identify user needs and preferences*** - By collecting data about the users' needs and preferences, designers can ensure that the resulting user interface meets the needs of its intended users.
+
+2. ***To identify user goals and tasks*** - By understanding the goals and tasks that users are trying to accomplish with the system, designers can create interfaces that are efficient and effective.
+
+3. ***To identify usability issues*** - By observing users interacting with the system, designers can identify usability issues and make design changes to address them.
+
+4. ***To identify opportunities for innovation*** - By gaining a deep understanding of the users and their needs, designers can identify opportunities for innovation and create new and better solutions to meet those needs.
+
+The goal of a data gathering session in user interface design is to collect information that will be used to create a user interface that is intuitive, efficient, and effective for its intended users.
+
 ---
 ### Q7. Enlist three broad categories of evaluation.
 
@@ -138,42 +156,121 @@ Nielsen’s ten heuristics are:
 ---
 ### Q12. What are requirements?
 
+- A requirement is a statement about an intended product that specifies what it is expected to do or how it will perform. For example, a requirement for a smartwatch GPS app might be that the time to load a map is less than half a second. Another, less precise requirement might be for teenagers to find the smartwatch appealing.
 
+- One of the goals of the requirements activity is to identify, clarify, and capture the requirements. The process of discovering requirements is iterative, allowing requirements and their understanding to evolve. In addition to capturing the requirements themselves, this activity also involves specifying criteria that can be used to show when the requirements have been fulfilled. For example, usability and user experience criteria can be used in this way.
+
+Two different kinds of requirements have traditionally been identified: 
+
+1. Functional requirements, which describe what the product will do
+
+	- Functional requirements specify the tasks and functions that the interface should be able to perform, such as data entry, information display, navigation, and interaction with other systems. These requirements are typically described in use cases, user stories, or functional specifications, and should be based on user needs and business goals.
+	
+	- For example, a functional requirement for a new video game might be that it will be challenging for a range of user abilities. This requirement might then be decomposed into more specific requirements detailing the structure of challenges in the game, for instance, levels of mastery, hidden tips and tricks, magical objects, and so on.
+
+2. nonfunctional requirements, which describe the characteristics (sometimes called constraints) of the product.
+
+	- Non-functional requirements specify the quality attributes that the interface should possess, such as performance, usability, accessibility, security, and scalability. These requirements are typically described in a separate document, such as a requirements specification or a quality assurance plan, and should be based on industry standards and best practices.
+	
+	- A nonfunctional requirement for this same game might be that it can run on a variety of platforms, such as the Microsoft Xbox, Sony PlayStation, and Nintendo Switch game systems. 
+
+- Interaction design involves understanding both functional and non functional requirements.
 
 ---
 ### Q13. Why establish requirements ?
 
+Establishing requirements in user interface design is essential for several reasons:
 
+1. ***Meeting user needs*** - Requirements ensure that the user interface is designed to meet the needs of the users. Without clear requirements, there is a risk of designing an interface that does not align with user needs, resulting in poor usability and user satisfaction.
+
+2. ***Clarifying design objectives*** - Requirements provide a clear understanding of what the user interface is supposed to do, and how it should behave. This helps designers to focus on the essential features and functions, and avoid unnecessary or confusing design elements.
+
+3. ***Identifying constraints*** - Requirements help to identify any constraints on the design, such as technical limitations, budget, or timeline. This allows designers to develop a realistic and feasible design that meets both user needs and project constraints.
+
+4. ***Ensuring quality*** - Requirements help to define the quality attributes that the user interface should possess, such as usability, accessibility, and performance. This ensures that the design is developed to meet the required quality standards.
+
+5. ***Facilitating communication and collaboration*** - Requirements provide a shared understanding of the design objectives and constraints, which helps to facilitate communication and collaboration among designers, developers, stakeholders, and users.    
+
+Overall, establishing requirements in user interface design is essential for developing an effective and user-friendly design that meets the needs of the users and stakeholders, and aligns with project objectives and constraints.
 
 ---
 ### Q14. What is low-fidelity prototyping? 
 
+- Page no. (4-5)
 
+Low-fidelity prototyping in user interface design involves creating simple, rough, and basic mockups or prototypes of a design concept or idea. These prototypes are typically created using basic materials such as paper, pencils, sticky notes, or wireframe software tools.
+
+Low-fidelity prototypes are used to explore and test various design ideas quickly and cheaply, without investing too much time or resources. They allow designers to focus on the overall structure, layout, and functionality of the interface, without getting distracted by details such as color, typography, or images.
+
+Low-fidelity prototypes are often used in the early stages of the design process, where designers need to explore and evaluate different design alternatives and get feedback from stakeholders and users. They are also useful in communicating design concepts and ideas to other members of the design team, developers, and clients.
+
+Some of the benefits of low-fidelity prototyping in user interface design include:
+
+-  ***Quick and easy to create*** - Low-fidelity prototypes can be created quickly and easily using basic materials or software tools, without requiring advanced design skills or specialized software.
+-  ***Cheap and cost-effective*** - Low-fidelity prototypes are inexpensive to create and can be used to test and refine design ideas before investing in more expensive prototypes or development.
+-  ***Focus on functionality*** - Low-fidelity prototypes help designers to focus on the functionality and structure of the interface, without getting distracted by visual details or aesthetics.
+-  ***Iterative and flexible*** - Low-fidelity prototypes can be easily modified, updated, or discarded based on feedback and iteration, allowing designers to refine and improve the design over time.
+
+Overall, low-fidelity prototyping is an essential technique in user interface design, as it allows designers to explore, test, and refine design ideas quickly and cost-effectively, and to ensure that the final design meets the needs and expectations of the users and the business.
 
 ---
 ### Q15. Discuss about principle to support usability.
 
-
+- Page no. (5-4)
 
 ---
 ### Q16. Explain interface metaphors	
 
-
+- Page no. (4-9)
+- Page no. (4-14)
 
 ---
 ### Q17. Explain ISO/IEC standards  . (Use web content not available in book)
 
+1. ***ISO 9241-11 : Guidance on usability*** - This standard provides guidance on usability and defines key terms related to usability. It provides a framework for understanding and evaluating usability, including the usability of software and hardware interfaces.
 
+2. ***ISO 9241-110 : Dialogue principles*** - This standard provides principles for designing effective human-computer dialogues. It covers issues such as consistency, responsiveness, and error prevention in interactive systems.
+
+3. ***ISO 9241-210 : Human-centered design for interactive systems*** - This standard provides a framework for designing interactive systems that are optimized for human use. It covers the entire design process, from initial user needs assessment to final system evaluation.
+
+4. ****ISO 14915 : Software ergonomics for multimedia user interfaces*** - This standard provides guidance on the design of multimedia user interfaces, including visual and auditory design elements. It covers issues such as text legibility, color use, and sound quality.
+
+5. ***ISO/IEC 25010  : System and software quality models*** - This standard provides a framework for evaluating the quality of software and systems, including user interface design. It defines various quality characteristics, such as usability, accessibility, and efficiency, and provides methods for evaluating them.
+
+6. ***ISO/IEC 25060 : Common Industry Format for usability test reports*** - This standard provides a common format for reporting the results of usability testing. It provides guidelines for reporting test objectives, methods, results, and conclusions.
+
+7. ***ISO/IEC 29138 : Systems and software engineering – Lifecycle processes – Requirements engineering*** - This standard provides guidance on the requirements engineering process for software development. It covers the entire requirements engineering process, from elicitation and analysis to specification and validation.
+
+8.  ***ISO/IEC 82345 : Health software – User interface requirements and design*** - This standard provides guidance on the design of user interfaces for health software. It covers issues such as user safety, user interface design, and user feedback.
+
+9. ***ISO/IEC TR 9126-4 : Software engineering – Product quality – Part 4: Quality in use metrics*** - This standard provides guidance on evaluating software quality from the user's perspective. It defines quality in use metrics, which measure the effectiveness, efficiency, and satisfaction of software users.
+
+10. ***ISO/IEC 13407 : Human-centered design for interactive systems***  - This standard provides guidelines for designing interactive systems that are optimized for human use. It covers the entire design process, from initial user needs assessment to final system evaluation.
+
+11.  ***ISO/IEC 14598 : Software engineering – Product evaluation*** - This standard provides guidance on evaluating software products, including user interfaces. It defines evaluation methods and provides guidelines for conducting evaluations.
+
+12. ***ISO/IEC 12119 : Information technology – Guidelines for the evaluation of multimedia software*** - This standard provides guidelines for evaluating multimedia software, including user interfaces. It covers issues such as user feedback, ease of use, and multimedia quality.
+
+13. ***ISO/IEC 15504 : Information technology – Process assessment*** - This standard provides a framework for assessing the quality of software development processes. It covers issues such as process capability, process maturity, and process improvement.
+
+14. ***ISO/IEC 15939 : Software measurement – Functional size measurement*** - This standard provides a method for measuring the functional size of software products. It provides guidelines for determining the size of software modules, including user interfaces.
+
+15. ***ISO/IEC 25023: Systems and software engineering – Systems and software Quality Requirements and Evaluation (SQuaRE) – Measurement of system and software product quality*** - This standard provides guidance on measuring the quality of software products, including user interfaces. It defines quality metrics and provides guidelines for measuring them.
 
 ---
 ### Q18. Explain Techniques for Data Gathering.	 	 
 
-
+- Page no. (3-3)
 
 ---
-### Q19. Explain the Standards and Guidelines in UID. (Use web content not available in book)
+### Q19. Explain the Guidelines and Standards in UID. (Use web content not available in book)
 
-
+- Page no. (5-19)
+- Page no. (5-23)
 
 ---
 ### Q20. Explain Golden rules and Heuristics in UID (Use web content not available in book)
+
+- Page no. (5-21)
+
+---
