@@ -60,7 +60,7 @@ The Golden Rules of User Interface Design are a set of principles that help simp
 In summary, the Golden Rules of User Interface Design simplify user interface design techniques by providing a set of principles that focus on creating interfaces that are consistent, intuitive, and meet the user's needs. By following these principles, designers can create interfaces that are user-friendly, effective, and efficient.
 
 ---
-### Q6. What is the goal of your data gathering session ?
+### Q6. What is the goal of a Data Gathering Session ?
 
 The goal of a data gathering session in the context of user interface design is to collect information and insights about the users, their needs, and the context of use. This information is then used to inform the design of the user interface to ensure that it meets the needs of the users and is easy and efficient to use.
 
@@ -81,7 +81,7 @@ Some of the common goals of a data gathering session in user interface design ar
 The goal of a data gathering session in user interface design is to collect information that will be used to create a user interface that is intuitive, efficient, and effective for its intended users.
 
 ---
-### Q7. Enlist three broad categories of evaluation.
+### Q7. Enlist three broad categories of Evaluation.
 
 We classify evaluations into three broad categories, depending on the setting, user involvement, and level of control. These are as follows:
 
@@ -154,7 +154,7 @@ Nielsen’s ten heuristics are:
 10. ***Help and documentation*** - Few systems can be used with no instructions so it may be necessary to provide help and documentation. Any such information should be easy to search, focused on the user’s task, list concrete steps to be carried out, and not be too large.
 
 ---
-### Q12. What are requirements?
+### Q12. What are Requirements?
 
 - A requirement is a statement about an intended product that specifies what it is expected to do or how it will perform. For example, a requirement for a smartwatch GPS app might be that the time to load a map is less than half a second. Another, less precise requirement might be for teenagers to find the smartwatch appealing.
 
@@ -177,7 +177,7 @@ Two different kinds of requirements have traditionally been identified:
 - Interaction design involves understanding both functional and non functional requirements.
 
 ---
-### Q13. Why establish requirements ?
+### Q13. Why establish Requirements ?
 
 Establishing requirements in user interface design is essential for several reasons:
 
@@ -219,13 +219,13 @@ Overall, low-fidelity prototyping is an essential technique in user interface de
 - Page no. (5-4)
 
 ---
-### Q16. Explain interface metaphors	
+### Q16. Explain interface metaphors.
 
 - Page no. (4-9)
 - Page no. (4-14)
 
 ---
-### Q17. Explain ISO/IEC standards  . (Use web content not available in book)
+### Q17. Explain ISO/IEC standards.
 
 1. ***ISO 9241-11 : Guidance on usability*** - This standard provides guidance on usability and defines key terms related to usability. It provides a framework for understanding and evaluating usability, including the usability of software and hardware interfaces.
 
@@ -263,13 +263,13 @@ Overall, low-fidelity prototyping is an essential technique in user interface de
 - Page no. (3-3)
 
 ---
-### Q19. Explain the Guidelines and Standards in UID. (Use web content not available in book)
+### Q19. Explain the Guidelines and Standards in UID.
 
 - Page no. (5-19)
 - Page no. (5-23)
 
 ---
-### Q20. Explain Golden rules and Heuristics in UID (Use web content not available in book)
+### Q20. Explain Golden rules and Heuristics in UID.
 
 - Page no. (5-21)
 
