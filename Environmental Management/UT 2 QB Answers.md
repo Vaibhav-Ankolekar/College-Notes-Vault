@@ -160,7 +160,41 @@ The Wildlife (Protection) Act, 1972 has divided the protection status of various
 ### Q9. Explain ISO-14000
 
 
+1. ***ISO 14001: Specification of Environmental Management Systems*** - This standard provides a framework for organizations to establish and maintain an effective environmental management system (EMS). It includes requirements for planning, implementation, monitoring, and continual improvement of the EMS.
+
+2. ***ISO 14004: Guideline Standard*** - This standard provides guidelines for implementing and maintaining an EMS based on ISO 14001. It covers the same areas as ISO 14001 but in more detail, providing practical guidance to organizations on how to meet the requirements of the standard.
+ 
+3. ***ISO 14010 – ISO 14015: Environmental Auditing and Related Activities*** - These standards cover environmental auditing, including principles, procedures, and requirements for conducting environmental audits. They provide guidance on the evaluation of environmental management systems, environmental performance, and environmental reports.
+ 
+4. ***ISO 14020 – ISO 14024: Environmental Labeling*** - These standards cover environmental labeling and provide a framework for the development and use of environmental labels and declarations. They also provide guidance on the use of environmental claims and symbols.
+
+5. ***ISO 14031 and ISO 14032: Environmental Performance Evaluation*** - These standards provide guidance on the evaluation of environmental performance, including the development of indicators and metrics, and the use of environmental performance evaluation in decision-making processes.
+ 
+6. ***ISO 14040 – ISO 14043: Life Cycle Assessment*** - These standards provide a framework for conducting life cycle assessments (LCAs) of products, processes, and services. They cover all stages of the product life cycle, from raw material extraction to disposal, and provide guidance on the application of LCA in environmental management and decision-making.
+
+7. ***ISO 14050: Terms and Definitions*** - This standard provides a comprehensive set of terms and definitions related to environmental management and sustainability, helping to ensure a common understanding and consistent use of terminology across different organizations and sectors.
+
 ---
 ### Q10. Write a note on TQEM
+
+Total Quality Environmental Management (TQEM) is an approach that integrates the principles of Total Quality Management (TQM) and environmental management to achieve sustainable development. It aims to optimize the use of resources, reduce waste and pollution, and improve the overall environmental performance of an organization.
+
+The primary objectives of TQEM are to:
+
+1. ***Reduce waste and improve continuously*** - TQEM promotes waste reduction and continuous improvement in environmental performance through the implementation of effective environmental management systems.
+
+2. ***Reduce resource depletion*** - TQEM encourages the efficient use of natural resources, such as water, energy, and raw materials, to minimize depletion and conserve natural resources for future generations.
+
+3. ***Reduce or eliminate environmental pollution*** - TQEM aims to reduce or eliminate the release of harmful pollutants into the environment through the implementation of pollution prevention strategies and the adoption of cleaner production technologies.
+
+4. ***Design products for minimal environmental impact in production, use, and disposal*** - TQEM encourages the development of environmentally friendly products that minimize their environmental impact throughout their entire lifecycle.
+
+5. ***Control environmental impact of raw material sourcing*** - TQEM focuses on controlling the environmental impact of raw material sourcing by promoting sustainable sourcing practices that minimize environmental degradation.
+
+6. ***Control environmental impact of new developments*** - TQEM aims to minimize the environmental impact of new developments, such as new products or services, by considering their environmental impact throughout their entire lifecycle.
+
+7. ***Promote environmental awareness among employees*** - TQEM promotes environmental awareness among employees to ensure that they understand the importance of environmental protection and are committed to achieving the organization's environmental objectives.
+
+8. ***Promote environmental awareness within the community*** - TQEM encourages organizations to engage with the local community to promote environmental awareness and involve them in the organization's environmental initiatives.
 
 ---
