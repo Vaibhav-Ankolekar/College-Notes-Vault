@@ -159,20 +159,53 @@ The Wildlife (Protection) Act, 1972 has divided the protection status of various
 ---
 ### Q9. Explain ISO-14000
 
+- ISO 14001 is the international standard that specifies requirements for an effective environmental management system (EMS).
+- It provides a framework that an organization can follow.
+- An Environmental Management System (EMS) is a set of processes and practices that enable an organization to reduce its environmental impacts and increase its operating efficiency.
+- The current version of ISO 14001 is ISO 14001:2015, which was published in September 2015
 
-1. ***ISO 14001: Specification of Environmental Management Systems*** - This standard provides a framework for organizations to establish and maintain an effective environmental management system (EMS). It includes requirements for planning, implementation, monitoring, and continual improvement of the EMS.
+The ISO 14000 series consists of a set of international standards related to environmental management. Here is a brief explanation of each of the ISO 14000 standards:
 
-2. ***ISO 14004: Guideline Standard*** - This standard provides guidelines for implementing and maintaining an EMS based on ISO 14001. It covers the same areas as ISO 14001 but in more detail, providing practical guidance to organizations on how to meet the requirements of the standard.
- 
-3. ***ISO 14010 – ISO 14015: Environmental Auditing and Related Activities*** - These standards cover environmental auditing, including principles, procedures, and requirements for conducting environmental audits. They provide guidance on the evaluation of environmental management systems, environmental performance, and environmental reports.
- 
-4. ***ISO 14020 – ISO 14024: Environmental Labeling*** - These standards cover environmental labeling and provide a framework for the development and use of environmental labels and declarations. They also provide guidance on the use of environmental claims and symbols.
+1. ***ISO 14001: Environmental Management Systems (EMS)*** - This standard outlines the requirements for an organization to establish, implement, maintain, and continually improve an environmental management system. It provides a framework for organizations to manage their environmental responsibilities in a systematic and efficient manner.
 
-5. ***ISO 14031 and ISO 14032: Environmental Performance Evaluation*** - These standards provide guidance on the evaluation of environmental performance, including the development of indicators and metrics, and the use of environmental performance evaluation in decision-making processes.
- 
-6. ***ISO 14040 – ISO 14043: Life Cycle Assessment*** - These standards provide a framework for conducting life cycle assessments (LCAs) of products, processes, and services. They cover all stages of the product life cycle, from raw material extraction to disposal, and provide guidance on the application of LCA in environmental management and decision-making.
+2. ***ISO 14004: EMS - General Guidelines on Principles, Systems, and Support Techniques*** - This standard provides general guidelines on the principles, systems, and support techniques for environmental management systems. It provides guidance on how to implement and maintain an EMS based on the requirements of ISO 14001.
 
-7. ***ISO 14050: Terms and Definitions*** - This standard provides a comprehensive set of terms and definitions related to environmental management and sustainability, helping to ensure a common understanding and consistent use of terminology across different organizations and sectors.
+3. ***ISO 14005: EMS - Guidelines for the phased implementation of an environmental management system, including the use of environmental performance evaluation*** - This standard provides guidelines for the phased implementation of an EMS, including the use of environmental performance evaluation. It can be used to help organizations to implement an EMS in a structured and planned manner.
+
+4. ***ISO 14006: EMS - Guidelines for incorporating ecodesign*** - This standard provides guidelines for incorporating eco-design into an organization's environmental management system. It provides a framework for integrating environmental considerations into the design and development of products and services.
+
+5. ***ISO 14015: EM - Environmental Assessment of Sites and Organizations*** - This standard provides guidelines for the environmental assessment of sites and organizations. It provides a framework for assessing the environmental impacts of an organization's activities, products, and services.
+
+6. ***ISO 14020: Environmental labels and declarations - General Principles*** - This standard provides general principles for environmental labeling and declarations. It provides a framework for the development of environmental labels and declarations, which can be used to provide information about the environmental impact of products and services.
+
+7. ***ISO 14021: Environmental labels and declarations - Self-declared environmental claims*** - This standard provides guidelines for self-declared environmental claims. It provides a framework for organizations to make environmental claims about their products and services in a truthful and transparent manner.
+
+8. ***ISO 14024: Environmental labels and declarations - Type I environmental labeling*** - This standard provides guidelines for type I environmental labeling. It provides a framework for the development and use of environmental labels that are independently certified.
+
+9. ***ISO 14025: Environmental labels and declarations - Type III environmental declarations*** - This standard provides guidelines for type III environmental declarations. It provides a framework for the development and use of environmental declarations that provide detailed information about the environmental impact of products and services.
+
+10. ***ISO 14031: EM - Environmental Performance Evaluation*** - This standard provides guidelines for environmental performance evaluation. It provides a framework for assessing an organization's environmental performance and identifying opportunities for improvement.
+
+ISO 14000 is a framework for environmental management that follows the Plan-Do-Check-Act (PDCA) cycle. This cycle is a systematic approach to continuous improvement that can be applied to any management system. Here is a breakdown of how the PDCA cycle applies to the ISO 14000 framework:
+
+1. ***Plan*** 
+	- In this phase, an organization establishes its environmental policy and objectives. 
+	- It identifies the environmental impacts of its activities, products or services, and sets targets for improvement. 
+	- The organization must also define the processes needed to achieve its objectives and ensure compliance with relevant legal and regulatory requirements.
+
+2. ***Do*** 
+	- In this phase, the organization implements the processes and procedures that it has established in the planning phase. 
+	- This includes the training of employees, the establishment of communication channels, and the implementation of the procedures to control its environmental impacts.
+
+3. ***Check*** 
+	- In this phase, the organization monitors and measures its environmental performance against its targets and objectives. 
+	- This includes checking compliance with legal and regulatory requirements, identifying and correcting non-conformities, and assessing the effectiveness of its management system.
+
+4. ***Act*** 
+	- In this phase, the organization takes action to continuously improve its environmental performance based on the results of the check phase. 
+	- This may involve updating policies and objectives, modifying processes and procedures, providing additional training, or making other improvements to the management system.
+
+The PDCA cycle is an iterative process, meaning that the organization repeats the cycle continuously to achieve ongoing improvement. Through this process, an organization can improve its environmental performance, reduce its environmental impact, and ensure compliance with relevant regulations and requirements.
 
 ---
 ### Q10. Write a note on TQEM
