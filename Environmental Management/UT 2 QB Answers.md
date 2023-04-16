@@ -17,25 +17,17 @@ The stages of the EMS lifecycle process are as follows:
 ---
 ### Q2. List purposes of National Environment Policy 
 
-The National Environment Policy (NEP) is a framework designed to guide environmental management in a country. The NEP sets out the government's vision and objectives for environmental protection and sustainable development. The purposes of a National Environment Policy in environmental management can include:
+The National Environment Policy (NEP) is a framework designed to guide environmental management in a country. The primary objectives of NEP 2006 are:
 
-1. ***Defining a National Vision*** - The NEP provides a vision for environmental protection and sustainable development, which serves as a guiding principle for all environmental management initiatives.
+1. ***Conservation of critical environmental resources*** - NEP 2006 aims to protect critical natural resources such as water, forests, biodiversity, and ecosystems. It recognizes that these resources are vital to sustain life and essential for the economic and social well-being of the country.
 
-2. ***Establishing Priorities*** - The NEP sets out priorities for environmental management, identifying the most important environmental issues to be addressed and the most effective strategies for addressing them.
+2. ***Intra-generational equity: Livelihood security for the poor*** - The policy recognizes the importance of social equity and aims to ensure that the benefits of development are distributed fairly among different sections of society. It particularly emphasizes the need to provide livelihood security to the poor, who are often the most vulnerable to environmental degradation and climate change.
 
-3. ***Coordinating Environmental Activities*** - The NEP helps to coordinate the activities of different government departments and agencies responsible for environmental management, ensuring that everyone is working towards the same goals.
+3. ***Efficiency in environmental resource use*** - NEP 2006 seeks to promote efficient use of environmental resources, including energy, water, land, and minerals, to ensure their sustainable use for future generations. It emphasizes the need for innovative and environmentally sound technologies to achieve this objective.
 
-4. ***Promoting Public Participation*** - The NEP provides opportunities for public participation in environmental decision-making, ensuring that the views and concerns of stakeholders are taken into account.
+4. ***Environmental governance in the management of resources*** - The policy recognizes that effective environmental governance is critical for the sustainable management of natural resources. It aims to strengthen institutional frameworks, regulatory mechanisms, and public participation to ensure better environmental management and governance.
 
-5. ***Setting Standards and Targets*** - The NEP sets environmental standards and targets for different sectors of the economy, providing a framework for measuring progress towards environmental goals.
-
-6. ***Integrating Environmental Concerns into Development Planning*** - The NEP ensures that environmental concerns are integrated into development planning, ensuring that economic development is sustainable and does not harm the environment.
-
-7. ***Ensuring Compliance with Environmental Regulations*** - The NEP establishes a regulatory framework for environmental management, setting out the rules and guidelines that must be followed by different sectors of the economy.
-
-8. ***Promoting International Cooperation*** - The NEP promotes international cooperation on environmental issues, helping to address transboundary environmental problems and encouraging the sharing of best practices and technologies.
-
-The NEP plays a crucial role in environmental management, by providing a coherent and integrated framework for environmental protection and sustainable development.
+5. ***Enhancement of resources for environmental conservation*** - Finally, the policy recognizes the need to enhance financial, institutional, and human resources for environmental conservation. It seeks to promote partnerships between different stakeholders, including government, civil society, and the private sector, to mobilize resources and achieve the objectives of the policy.
 
 ---
 ### Q3. Write the roles of Central Pollution Control Board 
