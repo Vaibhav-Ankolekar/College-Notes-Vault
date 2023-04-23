@@ -26,7 +26,7 @@ Overall, the interaction design process is important because it ensures that the
 Metaphors and analogies are used in these three main ways:
 1. As a way of conceptualizing what we are doing (for instance, surfing the web)
 2. As a conceptual model instantiated at the interface level (for example, the card metaphor)
-3. As a way of visualizing an operation (such as an icon of a shopping cart into which items are placed that users want to purchase on an online shopping site
+3. As a way of visualizing an operation (such as an icon of a shopping cart into which items are placed that users want to purchase on an online shopping site)
 
 ---
 ### Q4. Explain Golden Rules.

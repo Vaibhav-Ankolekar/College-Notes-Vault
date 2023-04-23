@@ -35,10 +35,10 @@ The National Environment Policy (NEP) is a framework designed to guide environme
 1. To advise the Central Government on any matter concerning the improvement of the quality of air and water and the prevention and control or abatement of air/water pollution.
 2. Plan and cause to be executed a nation-wide programme for the prevention, control or abatement of air and water pollution.
 3. Coordinate the activities of the State Boards and resolve disputes among them. 
-4. Provide technical assistance and guidance to the State Boards, carry out and sponsor investigations and research relating to problems of air pollution and prevention, control or abatement of air and water pollution. 
+4. Provide technical assistance and guidance to the State Boards, carry out and sponsor investigations and research relating to problems of air pollution and water pollution. 
 5. Plan and organize the training of persons engaged or to be engaged in programmes for prevention, control or abatement of air and water pollution on such terms and conditions as the Central Pollution Board may specify. 
-6. Organize through mass media a comprehensive programme regarding prevention, control or abatement of air and water pollution. 
-7. Collect, compile and publish technical and statistical data relating to air/water pollution and the measures devised for its effective prevention and control or abatement and prepare manuals, codes or guides relating to prevention, control or abatement of air and water pollution. 
+6. Organize a comprehensive programme through mass media regarding prevention, control or abatement of air and water pollution. 
+7. Collect, compile and publish technical and statistical data relating to air/water pollution and the measures devised for its effective prevention and control or abatement of air and water pollution. 
 8. Lay down standards for the quality of air and water. 
 9. Collect and disseminate information in respect of matters relating to air and water pollution.
 
@@ -136,17 +136,23 @@ The Wildlife (Protection) Act, 1972 has divided the protection status of various
     - It covers endangered species that need rigorous protection. The species are granted protection from poaching, killing, trading etc.
     - A person is liable to the harshest penalties for violation of the law under this Schedule.
     - Species under this Schedule are prohibited to be hunted throughout India, except under threat to human life or in case of a disease that is beyond recovery.
+    - Some of the animals granted protection under the Schedule I include: The Black Buck, Bengal Tiger, Clouded Leopard, Snow Leopard, Swamp Deer, etc.
 - **Schedule II:**  
     - Animals under this list are also accorded high protection with the prohibition on their trade.
     - They cannot be hunted except under threat to human life or if they are suffering from a disease/ disorder that goes beyond recovery.
+    - Some of the animals listed under Schedule II include: Assamese Macaque, Pig Tailed Macaque, Stump Tailed Macaque, Bengal Hanuman langur, Himalayan Black Bear, etc.
 - **Schedule III & IV:**  
     - Species that are not endangered are included under Schedule III and IV.
     - This includes protected species with hunting prohibited but the penalty for any violation is less compared to the first two schedules.
+    - Animals protected under Schedule III include: Chital (spotted deer), Bharal (blue sheep), Hyena, Nilgai, Sambhar (deer), Sponges.
+    - Animals protected under Schedule IV include: Flamingo, Hares, Falcons, Kingfishers, Magpie, Horseshoes Crabs.
 - **Schedule V:**  
     - This schedule contains animals that are considered as vermin(small wild animals that carry disease and destroy plants and food). These animals can be hunted.
+    - It includes only four species of wild animals: Common Crows, Fruit Bats, Rats, Mice.
 - **Schedule VI:**  
     - It provides for **regulation in cultivation of a specified plant** and restricts its possession, sale and transportation.
     - Both cultivation and trade of specified plants can only be carried out with prior permission of competent authority.
+    - Plants protected under Schedule VI include: Beddomes’ cycad (Native to India), Blue Vanda (Blue Orchid), Red Vanda (Red Orchid), Kuth (Saussurea lappa), Slipper orchids (Paphiopedilum spp.), Pitcher plant (Nepenthes khasiana).
 
 ---
 ### Q9. Explain ISO-14000
@@ -162,7 +168,7 @@ The ISO 14000 series consists of a set of international standards related to env
 
 2. ***ISO 14004: EMS - General Guidelines on Principles, Systems, and Support Techniques*** - This standard provides general guidelines on the principles, systems, and support techniques for environmental management systems. It provides guidance on how to implement and maintain an EMS based on the requirements of ISO 14001.
 
-3. ***ISO 14005: EMS - Guidelines for the phased implementation of an environmental management system, including the use of environmental performance evaluation*** - This standard provides guidelines for the phased implementation of an EMS, including the use of environmental performance evaluation. It can be used to help organizations to implement an EMS in a structured and planned manner.
+3. ***ISO 14005: EMS - Guidelines for the phased implementation of an EMS, including the use of environmental performance evaluation*** - This standard provides guidelines for the phased implementation of an EMS, including the use of environmental performance evaluation. It can be used to help organizations to implement an EMS in a structured and planned manner.
 
 4. ***ISO 14006: EMS - Guidelines for incorporating ecodesign*** - This standard provides guidelines for incorporating eco-design into an organization's environmental management system. It provides a framework for integrating environmental considerations into the design and development of products and services.
 
@@ -180,20 +186,20 @@ The ISO 14000 series consists of a set of international standards related to env
 
 ISO 14000 is a framework for environmental management that follows the Plan-Do-Check-Act (PDCA) cycle. This cycle is a systematic approach to continuous improvement that can be applied to any management system. Here is a breakdown of how the PDCA cycle applies to the ISO 14000 framework:
 
-1. ***Plan*** 
+1. ***Plan - Establish objectives and processes required*** 
 	- In this phase, an organization establishes its environmental policy and objectives. 
 	- It identifies the environmental impacts of its activities, products or services, and sets targets for improvement. 
 	- The organization must also define the processes needed to achieve its objectives and ensure compliance with relevant legal and regulatory requirements.
 
-2. ***Do*** 
+2. ***Do - Implement the processes*** 
 	- In this phase, the organization implements the processes and procedures that it has established in the planning phase. 
 	- This includes the training of employees, the establishment of communication channels, and the implementation of the procedures to control its environmental impacts.
 
-3. ***Check*** 
+3. ***Check - Measure and monitor the processes and report results*** 
 	- In this phase, the organization monitors and measures its environmental performance against its targets and objectives. 
 	- This includes checking compliance with legal and regulatory requirements, identifying and correcting non-conformities, and assessing the effectiveness of its management system.
 
-4. ***Act*** 
+4. ***Act - Take action to improve performance of EMS based on results*** 
 	- In this phase, the organization takes action to continuously improve its environmental performance based on the results of the check phase. 
 	- This may involve updating policies and objectives, modifying processes and procedures, providing additional training, or making other improvements to the management system.
 
