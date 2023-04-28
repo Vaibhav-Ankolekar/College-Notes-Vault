@@ -135,9 +135,9 @@
 
 - Explain SIMRANK Algorithm with example \[10m\].
 
-- Define Hun and Authority. Compute Hub and Authority score for web. \[10m\].
+- Define Hub and Authority. Compute Hub and Authority score for web. \[10m\].
 	![[Pasted image 20230426115424.svg]]
-	Define Hun and Authority. Compute Hub and Authority score for web. \[10m\].
+	Define Hub and Authority. Compute Hub and Authority score for web. \[10m\].
 	![[Pasted image 20230426122301.svg]]
 
 - Explain collaborative filtering system. How is it different from content based system? \[10m\]. Define Collaborative filtering. Using an example of an e-commerce site like Flipkart or Amazon, describe how it can be used to provide recommendations to users \[10m\].
