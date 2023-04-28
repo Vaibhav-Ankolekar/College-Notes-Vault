@@ -123,21 +123,29 @@
 - Explain the role and effect of damping factor (teleportation) in Page Rank computation \[5m\].
 
 - Define PageRank. Using the web graph shown below compute the PageRank at every node at the end of the second iteration. Use teleport factor = 0.8 \[10m\].
+
 	![[Pasted image 20230426151648.svg]]
 
 - For the graph given below show the page ranks of all nodes after running the PageRank algorithm for two iterations with teleportation factor with Beta value = 0.8
+
 	![[Pasted image 20230426154703.svg]]
 
 - Compute simplified page rank using damping factor d = 0.9 for web. \[10m\] 
+
 	![[Pasted image 20230426115424.svg]]
+
 	Compute efficient page rank using damping factor d = 0.8 for web. \[10m\] 
+
 	![[Pasted image 20230426122122.svg]]
 
 - Explain SIMRANK Algorithm with example \[10m\].
 
 - Define Hub and Authority. Compute Hub and Authority score for web. \[10m\].
+
 	![[Pasted image 20230426115424.svg]]
+
 	Define Hub and Authority. Compute Hub and Authority score for web. \[10m\].
+
 	![[Pasted image 20230426122301.svg]]
 
 - Explain collaborative filtering system. How is it different from content based system? \[10m\]. Define Collaborative filtering. Using an example of an e-commerce site like Flipkart or Amazon, describe how it can be used to provide recommendations to users \[10m\].
@@ -159,9 +167,11 @@
 - List down the steps in modified Page Rank Algorithm to avoid spider trap with one example \[10m\].
 
 - What is a "Community" in a Social Network Graph? Explain any one algorithm for finding communities in a Social Graph \[10m\]. What is a "Community" in a Social Network Graph? For the following graph show how the Girvan Newman algorithm finds the different communities \[10m\].
+
 	![[Pasted image 20230426155054.svg]]
 
 - Consider a Portion of Web Graph shown below \[10m\].
+
 	![[Pasted image 20230426155448.svg]]
 	a) Compute the hub and authority scores for all the nodes.
 	b) Does this graph contains spider traps? Dead ends? If so, which nodes?
@@ -177,6 +187,7 @@
 	Compute the cosine of the angles between (3,-1,2) and (-2,3,1) \[10m\].
 
 - For the given graph show how clique percolation method will find cliques. \[10m\]
+
 	![[Pasted image 20230426113546.svg]]
 
 - Define Edit distance. Explain with example \[5m\]
@@ -201,6 +212,7 @@
 - Explain CAP theorem? How is it different from ACID properties \[5m\]
 
 - For the graph given below use betweenness factor and find all communities \[10m\].
+
 	![[Pasted image 20230426151935.svg]]
 
 - Find Manhattan distance for the points X1=(1,2,2) and X2=(2,5,3)
