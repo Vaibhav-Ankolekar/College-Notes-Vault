@@ -1,10 +1,10 @@
 ## Module 1
 
-- [ ] List and Explain Big Data :- 1) Characteristics, 2) Types and 3) Challenges \[5m\]
+- [x] List and Explain Big Data :- 1) Characteristics, 2) Types and 3) Challenges \[5m\]
 
-- [ ]  What are the characteristics of Big Data? \[5m\].
+- [x]  What are the characteristics of Big Data? \[5m\].
 
-- [ ]  What are the three Vs of Big Data? Give two examples of big data case studies. Indicate which Vs are satisfied by these case studies. \[5m\].
+- [x]  What are the three Vs of Big Data? Give two examples of big data case studies. Indicate which Vs are satisfied by these case studies. \[5m\].
 
 ---
 ## Module 2
@@ -112,7 +112,7 @@
 
 - [ ] Explain the steps of the HITS algorithm \[5m\]. Explain HITS algorithm with example \[10m\].
 
-- [ ] Consider the web graph below with six pages (A, B, C, D, E, F) with directed links as follows. 
+- [x] Consider the web graph below with six pages (A, B, C, D, E, F) with directed links as follows. 
 	$A \to B,C$
 	$B \to A,D,E,F$
 	$C \to A,F$
