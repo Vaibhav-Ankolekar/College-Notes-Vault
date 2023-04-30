@@ -124,29 +124,29 @@
 
 - [x] Define PageRank. Using the web graph shown below compute the PageRank at every node at the end of the second iteration. Use teleport factor = 0.8 \[10m\].
 
-	![[Pasted image 20230426151648.svg]]
+	![[PageRank Sum 1.svg]]
 
 - [ ] For the graph given below show the page ranks of all nodes after running the PageRank algorithm for two iterations with teleportation factor with Beta value = 0.8
 
-	![[Pasted image 20230426154703.svg]]
+	![[PageRank Sum 2.svg]]
 
 - [ ] Compute simplified page rank using damping factor d = 0.9 for web. \[10m\] 
 
-	![[Pasted image 20230426115424.svg]]
+	![[PageRank Sum 3.svg]]
 
 - [x] Compute efficient page rank using damping factor d = 0.8 for web. \[10m\] 
 
-	![[Pasted image 20230426122122.svg]]
+	![[PageRank Sum 4.svg]]
 
 - [ ] Explain SIMRANK Algorithm with example \[10m\].
 
 - [ ] Define Hub and Authority. Compute Hub and Authority score for web. \[10m\].
 
-	![[Pasted image 20230426115424.svg]]
+	![[PageRank Sum 3.svg]]
 
 - [x] Define Hub and Authority. Compute Hub and Authority score for web. \[10m\].
 
-	![[Pasted image 20230426122301.svg]]
+	![[HubAuthority Sum 1.svg]]
 
 - [ ] Explain collaborative filtering system. How is it different from content based system? \[10m\]. Define Collaborative filtering. Using an example of an e-commerce site like Flipkart or Amazon, describe how it can be used to provide recommendations to users \[10m\].
 
@@ -168,11 +168,11 @@
 
 - [ ] What is a "Community" in a Social Network Graph? Explain any one algorithm for finding communities in a Social Graph \[10m\]. What is a "Community" in a Social Network Graph? For the following graph show how the Girvan Newman algorithm finds the different communities \[10m\].
 
-	![[Pasted image 20230426155054.svg]]
+	![[Community Sum 1.svg]]
 
 - [ ] Consider a Portion of Web Graph shown below \[10m\].
 
-	![[Pasted image 20230426155448.svg]]
+	![[HubAuthority Sum 2.svg]]
 	a) Compute the hub and authority scores for all the nodes.
 	b) Does this graph contains spider traps? Dead ends? If so, which nodes?
 	c) Compute the page rank of the nodes with teleportation $\beta=0.8$? (show two iterations only)
@@ -188,7 +188,7 @@
 
 - [ ] For the given graph show how clique percolation method will find cliques. \[10m\]
 
-	![[Pasted image 20230426113546.svg]]
+	![[Clique Sum 1.svg]]
 
 - [ ] Define Edit distance. Explain with example \[5m\]
 
@@ -213,7 +213,7 @@
 
 - [ ] For the graph given below use betweenness factor and find all communities \[10m\].
 
-	![[Pasted image 20230426151935.svg]]
+	![[Community Sum 2.svg]]
 
 - [ ] Find Manhattan distance for the points X1=(1,2,2) and X2=(2,5,3)
 

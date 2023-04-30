@@ -6,24 +6,25 @@ Assume that the PageRank values for any page m at iteration 0 is $PR(m)=1$ and t
 
 Define PageRank. Using the web graph shown below compute the PageRank at every node at the end of the second iteration. Use teleport factor = 0.8 \[10m\].
 
-![[Pasted image 20230426151648.svg]]
+![[PageRank Sum 1.svg]]
 
 Solution :-
 
 Transition Matrix
 
 $$
+M \;\;\;\;\; = \;\;\;\;\;
 \begin{array}{cc} 
-	& \begin{array}{cccccc} A & B & C & D & E & F \\ \end{array} \\
+	& \begin{array}{cccccc} A \; & \; B \; & \; C \; & \; D \; & \; E \; & \; F \\ \end{array} \\
 	\begin{array}{cccccc} A \\ B \\ C \\ D \\ E \\ F \end{array} &
 	\left[
 		\begin{array}{cccccc}
-		0 & \frac{1}{4} & 0 & 0 & 0 & 0 \\
-		0 & 0 & 0 & 0 & 0 & 0 \\
-		0 & 0 & 0 & 0 & 0 & 0 \\
-		0 & 0 & 0 & 0 & 0 & 0 \\
-		0 & 0 & 0 & 0 & 0 & 0 \\
-		0 & 0 & 0 & 0 & 0 & 0
+		0 & 1/2 & 1/2 & 0 & 0 & 0 \\
+		1/2 & 0 & 0 & 0 & 0 & 0 \\
+		1/2 & 0 & 0 & 0 & 0 & 0 \\
+		0 & 1/4 & 0 & 0 & 0 & 0 \\
+		0 & 1/4 & 0 & 0 & 0 & 0 \\
+		0 & 1/4 & 1/2 & 0 & 0 & 0
 		\end{array}
 	\right]
 \end{array}
