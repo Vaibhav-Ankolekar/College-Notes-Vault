@@ -9,7 +9,7 @@
 ---
 ## Module 2
 
-- [ ] Explain Hadoop Ecosystem with core components. Explain its physical architecture. State the limitations of Hadoop. \[10m\] Explain the different Hadoop components. \[10m\]. Short Note on Core Hadoop components \[5m\]. Explain Hadoop architecture with its features. \[5m\]
+- [x] Explain Hadoop Ecosystem with core components. Explain its physical architecture. State the limitations of Hadoop. \[10m\] Explain the different Hadoop components. \[10m\]. Short Note on Core Hadoop components \[5m\]. Explain Hadoop architecture with its features. \[5m\]
 
 - [ ] How Big data problems are handled by Hadoop system \[5m\].
 
@@ -17,21 +17,21 @@
 
 - [ ] Describe the structure of HDFS in a Hadoop ecosystem using a diagram \[5m\].
 
-- [ ] Difference between Document data stores and Column family data store. \[5m\]
+- [x] Difference between Document data stores and Column family data store. \[5m\]
 
-- [ ] Distinguish between Name Node and Data Node. \[5m\]
+- [x] Distinguish between Name Node and Data Node. \[5m\]
 
-- [ ] Difference between SQL and NoSQL \[5m\]
+- [x] Difference between SQL and NoSQL \[5m\]
 
-- [ ] Short Note on NoSQL data stores \[5m\]
+- [x] Short Note on NoSQL data stores \[5m\]
 
-- [ ] Agility is a NoSQL business driver. Justify \[5m\]
+- [x] Agility is a NoSQL business driver. Justify \[5m\]
 
-- [ ] List the different NoSQL data stores. Explain any two diagram \[10m\]. What are the different data architecture patterns in NoSQL? Explain "Key Value" store and "Document" store patterns with relevant examples \[10m\]. What are the different architectural patterns in NoSQL? Explain Graph data store and Column Family Store patterns with relevant examples. \[10m\].
+- [x] List the different NoSQL data stores. Explain any two diagram \[10m\]. What are the different data architecture patterns in NoSQL? Explain "Key Value" store and "Document" store patterns with relevant examples \[10m\]. What are the different architectural patterns in NoSQL? Explain Graph data store and Column Family Store patterns with relevant examples. \[10m\].
 
-- [ ] Short note on NoSQL architectural pattern with example \[5m\]. Explain NoSQL data architectural patterns \[5m\].
+- [x] Short note on NoSQL architectural pattern with example \[5m\]. Explain NoSQL data architectural patterns \[5m\].
 
-- [ ] What is BASE properties in NoSQL database ? List two applications of each NoSQL architecture pattern \[10m\].
+- [x] What is BASE properties in NoSQL database ? List two applications of each NoSQL architecture pattern \[10m\].
 
 ---
 ## Module 3

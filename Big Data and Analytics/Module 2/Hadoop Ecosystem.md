@@ -1,5 +1,17 @@
 ![[Hadoop Ecosystem.png]]
 
+# Core Components
+
+Hadoop is a distributed computing framework that enables the processing of large datasets across clusters of computers. The core components of Hadoop are:
+
+1. Hadoop Distributed File System (HDFS): HDFS is the primary storage system of Hadoop, which is designed to store large data sets reliably and to stream those data sets at high bandwidth to user applications. It is fault-tolerant and scalable, and can be used to store both structured and unstructured data.
+
+2. Yet Another Resource Negotiator (YARN): YARN is the resource management layer of Hadoop. It manages the resources (CPU, memory, and network) of the cluster and schedules tasks to run on the available resources. It enables multiple data processing engines to run on Hadoop by providing a common resource management framework.
+
+3. MapReduce: MapReduce is a programming model for processing large datasets in parallel. It is used to analyze and process data stored in HDFS. MapReduce works by breaking down a task into smaller sub-tasks, which are processed in parallel across the nodes in the cluster.
+
+Together, these components provide a distributed computing environment that can handle large-scale data processing and analysis.
+
 # Components
 
 ## HDFS
