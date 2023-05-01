@@ -36,14 +36,14 @@
 ---
 ## Module 3
 
-- [ ] Explain "Shuffle & Sort" phase and "Reducer" phase in Map Reduce. \[5m\]
+- [x] Explain "Shuffle & Sort" phase and "Reducer" phase in Map Reduce. \[5m\]
 
-- [ ] Write a Map Reduce pseudo code to multiply two matrices. Illustrate with an example showing all steps \[10m\]. Write a Map Reduce pseudo code to multiply two matrices. Illustrate the procedure on the following matrices. Clearly show all the steps \[10m\]. 
+- [x] Write a Map Reduce pseudo code to multiply two matrices. Illustrate with an example showing all steps \[10m\]. Write a Map Reduce pseudo code to multiply two matrices. Illustrate the procedure on the following matrices. Clearly show all the steps \[10m\]. 
 	$$A = \begin{bmatrix} 1 & 2 \\ 2 & 1 \\ 3 & 4 \end{bmatrix} 
 	\;\;\;\;\;\; 
 	B = \begin{bmatrix} 1 & 2 \\ 1 & 3 \end{bmatrix}$$
 
-- [ ] Explain selection and projection relational algebra operation using MapReduce \[10m\]. List Relational algebra operations. Explain any two using MapReduce \[10m\].
+- [x] Explain selection and projection relational algebra operation using MapReduce \[10m\]. List Relational algebra operations. Explain any two using MapReduce \[10m\].
 
 - [ ] Short note on MapReduce for Matrix Multiplication \[5m\]. Short note on Matrix-Vector Multiplication by MapReduce \[5m\]. Short note on Matrix Multiplication by MapReduce \[5m\]. 
 
