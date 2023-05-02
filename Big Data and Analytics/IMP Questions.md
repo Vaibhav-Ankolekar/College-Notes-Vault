@@ -60,13 +60,13 @@
 ---
 ## Module 4
 
-- [ ] What is a Data Stream Management System? Explain with block diagram \[10m\].
+- [x] What is a Data Stream Management System? Explain with block diagram \[10m\].
 
-- [ ] Difference between DBMS and DSMS \[5m\].
+- [x] Difference between DBMS and DSMS \[5m\].
 
-- [ ] List the different issues in stream processing \[5m\]. List the different issues and challenges in data stream query processing \[5m\]. List the different issues and challenges in data stream query processing \[5m\].
+- [x] List the different issues in stream processing \[5m\]. List the different issues and challenges in data stream query processing \[5m\]. List the different issues and challenges in data stream query processing \[5m\].
 
-- [ ] Explain Blooms filter for Stream Data Mining \[5m\]. Define Bloom filter. Explain the concept of Bloom filter algorithm with example \[10m\]. Explain Bloom's filter for stream data mining with example \[10m\]. Clearly explain the concept of a Bloom filter with the help of an example \[10m\].
+- [x] Explain Blooms filter for Stream Data Mining \[5m\]. Define Bloom filter. Explain the concept of Bloom filter algorithm with example \[10m\]. Explain Bloom's filter for stream data mining with example \[10m\]. Clearly explain the concept of a Bloom filter with the help of an example \[10m\].
 
 - [ ] Explain FM algorithm with example. \[10m\] Explain Flajolet-Martin Algorithm with example \[10m\]
 
