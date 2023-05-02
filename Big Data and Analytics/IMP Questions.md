@@ -45,15 +45,15 @@
 
 - [x] Explain selection and projection relational algebra operation using MapReduce \[10m\]. List Relational algebra operations. Explain any two using MapReduce \[10m\].
 
-- [ ] Short note on MapReduce for Matrix Multiplication \[5m\]. Short note on Matrix-Vector Multiplication by MapReduce \[5m\]. Short note on Matrix Multiplication by MapReduce \[5m\]. 
+- [x] Short note on MapReduce for Matrix Multiplication \[5m\]. Short note on Matrix-Vector Multiplication by MapReduce \[5m\]. Short note on Matrix Multiplication by MapReduce \[5m\]. 
 
-- [ ] Explain Matrix-Matrix multiplication using TWO step MapReduce model \[10m\].
+- [x] Explain Matrix-Matrix multiplication using TWO step MapReduce model \[10m\].
 
-- [ ] Short note on MapReduce programming model \[5m\].
+- [x] Short note on MapReduce programming model \[5m\].
 
-- [ ] What is the role of a "combiner" in the MapReduce framework? Explain with the help of one example \[5m\]
+- [x] What is the role of a "combiner" in the MapReduce framework? Explain with the help of one example \[5m\]
 
-- [ ] Show MapReduce implementation for the following two tasks using pseudocode \[10m\].
+- [x] Show MapReduce implementation for the following two tasks using pseudocode \[10m\].
 	i) Multiplication of two matrices
 	ii) Computing group-by and aggregation of a relational table
 

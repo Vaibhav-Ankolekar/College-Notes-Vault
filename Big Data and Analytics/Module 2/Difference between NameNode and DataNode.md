@@ -1,6 +1,6 @@
 NameNode and DataNode are two key components of the Hadoop Distributed File System (HDFS). Here are the differences between NameNode and DataNode:
 
-|                 | **NameNode**                                                                                                                                     | DataNode |
+|                 | NameNode                                                                                                                                     | DataNode |
 |-:|-|-|
 | Function        | The NameNode is responsible for managing the file system namespace, controlling access to files, and managing metadata.                          | The DataNode is responsible for storing and retrieving data from the file system. |
 | Role            | The NameNode is the master node.                                                                                                                 | DataNode is a worker/slave node. |
