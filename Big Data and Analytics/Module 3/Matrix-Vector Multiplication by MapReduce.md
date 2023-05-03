@@ -1,3 +1,5 @@
+# Matrix-Vector Multiplication by MapReduce
+
 Suppose we have an $n \times n$ matrix $M$, whose element in row $i$ and column $j$ will be denoted $m_{ij}$. Suppose we also have a vector **v** of length $n$, whose $j$th element is $v_j$. Then the matrix-vector product is the vector $x$ of length $n$, whose $i$th element $x_i$ is given by
 
 $$

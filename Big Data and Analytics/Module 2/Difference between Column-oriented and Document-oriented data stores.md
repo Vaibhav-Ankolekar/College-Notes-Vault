@@ -1,3 +1,5 @@
+# Difference between Column-oriented and Document-oriented data stores
+
 Column-oriented and Document-oriented data stores are two different types of NoSQL databases that have gained popularity in recent years. Here are 10 differences between column-oriented and document-oriented data stores:
 
 1. Data Model: Column-oriented data stores organize data by column, while document-oriented data stores organize data by document.

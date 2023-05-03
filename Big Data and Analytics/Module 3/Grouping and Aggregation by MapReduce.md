@@ -1,3 +1,5 @@
+# Grouping and Aggregation by MapReduce
+
 As with the join, we shall discuss the minimal example of grouping and aggregation, where there is one grouping attribute and one aggregation. Let $R(A, B, C)$ be a relation to which we apply the operator $\gamma_{A,\theta(B)}(R)$. Map will perform the grouping, while Reduce does the aggregation.
 
 **The Map Function:** For each tuple $(a, b, c)$ produce the key-value pair $(a, b)$.

@@ -1,13 +1,13 @@
-## Module 1
+# Module 1
 
 - [x] List and Explain Big Data :- 1) Characteristics, 2) Types and 3) Challenges \[5m\]
 
-- [x]  What are the characteristics of Big Data? \[5m\].
+- [x] What are the characteristics of Big Data? \[5m\].
 
-- [x]  What are the three Vs of Big Data? Give two examples of big data case studies. Indicate which Vs are satisfied by these case studies. \[5m\].
+- [x] What are the three Vs of Big Data? Give two examples of big data case studies. Indicate which Vs are satisfied by these case studies. \[5m\].
 
 ---
-## Module 2
+# Module 2
 
 - [x] Explain Hadoop Ecosystem with core components. Explain its physical architecture. State the limitations of Hadoop. \[10m\] Explain the different Hadoop components. \[10m\]. Short Note on Core Hadoop components \[5m\]. Explain Hadoop architecture with its features. \[5m\]
 
@@ -34,7 +34,7 @@
 - [x] What is BASE properties in NoSQL database ? List two applications of each NoSQL architecture pattern \[10m\].
 
 ---
-## Module 3
+# Module 3
 
 - [x] Explain "Shuffle & Sort" phase and "Reducer" phase in Map Reduce. \[5m\]
 
@@ -58,7 +58,7 @@
 	ii) Computing group-by and aggregation of a relational table
 
 ---
-## Module 4
+# Module 4
 
 - [x] What is a Data Stream Management System? Explain with block diagram \[10m\].
 
@@ -68,39 +68,36 @@
 
 - [x] Explain Blooms filter for Stream Data Mining \[5m\]. Define Bloom filter. Explain the concept of Bloom filter algorithm with example \[10m\]. Explain Bloom's filter for stream data mining with example \[10m\]. Clearly explain the concept of a Bloom filter with the help of an example \[10m\].
 
-- [ ] Explain FM algorithm with example. \[10m\] Explain Flajolet-Martin Algorithm with example \[10m\]
+- [x] Explain FM algorithm with example. \[10m\] Explain Flajolet-Martin Algorithm with example \[10m\]
 
 - [x] Suppose a data stream consists of the integers 1,3,2,1,2,3,4,3,1,2,3,1. Let the Hash function being used in $h(x)=6x+1 \; mod \; 5$; estimate the number of distinct in this stream using Flajolet - Martin algorithm. \[10m\]
 
-- [ ] Suppose a data stream consists of the integers 2,1,6,1,5,9,2,3,5. Let the Hash functions all be of the form $h(x)=ax+b \; mod \; 16$ for some a & b. Yo should treat the result as a 4 bit binary integer. Determine the tail length for each stream element and the resulting estimate of the number if distinct elements if the hash function is \[10m\]
-	a) $h(x)=2x+3 \; mod \; 16$
-	b) $h(x)=4x+1 \; mod \; 16$
-	c) $h(x)=5x \; mod \; 16$
+- [ ] Suppose a data stream consists of the integers 2,1,6,1,5,9,2,3,5. Let the Hash functions all be of the form $h(x)=ax+b \; mod \; 16$ for some a & b. Yo should treat the result as a 4 bit binary integer. Determine the tail length for each stream element and the resulting estimate of the number if distinct elements if the hash function is \[10m\] a) $h(x)=2x+3 \; mod \; 16$; b) $h(x)=4x+1 \; mod \; 16$ and c) $h(x)=5x \; mod \; 16$
 
 - [ ] Suppose a data stream consists of the integers 3,1,4,1,5,9,2,6,5. Let the Hash function being used in $h(x)=3x+1 \; mod \; 5$. Show how the FM algorithm will estimate the number of distinct elements in this stream.
 
-- [ ] Given two applications for counting the number of 1's in a long stream of binary values. Using a stream of binary digits, illustrate how DGIM will find the number of 1's \[10m\]. Explain DGIM algorithm for counting ones in a stream with example \[10m\]. Explain DGIM algorithm for counting ones in stream with example. \[10m\]. Given two applications for counting the number of 1's in a long stream of binary values. Using a stream of binary digits, illustrate how DGIM will find the number of 1's \[10m\]. 
+- [x] Given two applications for counting the number of 1's in a long stream of binary values. Using a stream of binary digits, illustrate how DGIM will find the number of 1's \[10m\]. Explain DGIM algorithm for counting ones in a stream with example \[10m\]. Explain DGIM algorithm for counting ones in stream with example. \[10m\]. Given two applications for counting the number of 1's in a long stream of binary values. Using a stream of binary digits, illustrate how DGIM will find the number of 1's \[10m\]. 
 
-- [ ] Give the updating buckets approach of DGIM algorithm \[5m\]
+- [x] Give the updating buckets approach of DGIM algorithm \[5m\]
 
 ---
-## Module 5
+# Module 5
 
 - [ ] Difference between PCY and Multistage \[5m\]. Difference between Multihash and Multistage \[5m\]. Difference between PCY, Multihash and Multistage \[5m\].
 
-- [ ] Short note on PCY algorithm \[5m\]. Explain PCY algorithm with suitable example \[10m\]. Explain clearly with diagram how the PCY algorithm helps to perform frequent itemset mining for large datasets \[10m\]. Explain Park-Chen-Yu algorithm. How memory mapping is done in PCY.
+- [x] Short note on PCY algorithm \[5m\]. Explain PCY algorithm with suitable example \[10m\]. Explain clearly with diagram how the PCY algorithm helps to perform frequent itemset mining for large datasets \[10m\]. Explain Park-Chen-Yu algorithm. How memory mapping is done in PCY.
 
-- [ ] Explain clearly how SON partition based algorithm helps to perform frequent item set mining for large data sets. How does this algorithm avoid false negatives ? \[10m\]. Explain the SON algorithm for Frequent Pattern mining. Illustrate how MapReduce can be used for implementing this algorithm \[10m\].
+- [x] Explain clearly how SON partition based algorithm helps to perform frequent item set mining for large data sets. How does this algorithm avoid false negatives ? \[10m\]. Explain the SON algorithm for Frequent Pattern mining. Illustrate how MapReduce can be used for implementing this algorithm \[10m\].
 
-- [ ] Short note on SON algorithm with Map Reduce \[5m\]. Short note on SON algorithm and MapReduce \[5m\].
+- [x] Short note on SON algorithm with Map Reduce \[5m\]. Short note on SON algorithm and MapReduce \[5m\].
 
-- [ ] Clearly explain how CURE algorithm can be used to cluster big data sets. \[10m\]. Short note on CURE algorithm \[5m\]. Short note on CURE algorithm \[5m\]. Clearly explain how CURE algorithm can be used to cluster big data sets. \[10m\]. Explain how the CURE algorithm can be used to cluster big data sets \[10m\].
+- [x] Clearly explain how CURE algorithm can be used to cluster big data sets. \[10m\]. Short note on CURE algorithm \[5m\]. Short note on CURE algorithm \[5m\]. Clearly explain how CURE algorithm can be used to cluster big data sets. \[10m\]. Explain how the CURE algorithm can be used to cluster big data sets \[10m\].
 
-- [ ] Short note on clustering using Representatives Algorithm. \[5m\] 
+- [x] Short note on clustering using Representatives Algorithm. \[5m\] 
 
 - [ ] Through an example illustrate how the triangular array can be used to optimally store and count pairs in a frequent itemset mining algorithm \[5m\].
 
-- [ ] Imagine there are 100 baskets, numbered 1, 2, …, 100 items, similarly numbered. Item I is in basket J if and only if I divides J evenly. For example, basket 24 is set of items { 1, 2, 3, 4, 6, 8, 12, 24 }. Describe all the association rules that have 100% confidence.
+- [ ] Imagine there are 100 baskets, numbered 1, 2,…, 100 items, similarly numbered. Item I is in basket J if and only if I divides J evenly. For example, basket 24 is set of items { 1, 2, 3, 4, 6, 8, 12, 24 }. Describe all the association rules that have 100% confidence.
 
 - [x] The snapshot of 10 transactions is given below for online shopping that generates big data. $Threshold \; value = 4$ and $Hash \; function= (i*j) \; mod \; 10$
 	$$T_1 = \{1, 2, 3\}, \; T_2 = \{2, 3, 4\}, \; T_3 = \{3, 4, 5\}, \; T_4 = \{4, 5, 6\}, \; T_5 = \{1, 3, 5\}$$
@@ -108,9 +105,9 @@
 	Find the frequent item sets purchased for such big data by using suitable
 
 ---
-## Module 6
+# Module 6
 
-- [ ] Explain the steps of the HITS algorithm \[5m\]. Explain HITS algorithm with example \[10m\].
+- [x] Explain the steps of the HITS algorithm \[5m\]. Explain HITS algorithm with example \[10m\].
 
 - [x] Consider the web graph below with six pages (A, B, C, D, E, F) with directed links as follows. 
 	$A \to B,C$
@@ -118,9 +115,11 @@
 	$C \to A,F$
 	Assume that the PageRank values for any page m at iteration 0 is $PR(m)=1$ and teleportation factor for iterations is $\beta=0.85$. Perform the page rank algorithm and determine the rank for every page at iteration 2. \[10m\]
 
-- [ ] What is the role and effect of Page Rank ? \[5m\] Explain PageRank algorithm with suitable example \[10m\].
+- [ ] List down the steps in modified Page Rank Algorithm to avoid spider trap with one example \[10m\].
 
-- [ ] Explain the role and effect of damping factor (teleportation) in Page Rank computation \[5m\].
+- [x] What is the role and effect of Page Rank ? \[5m\] Explain PageRank algorithm with suitable example \[10m\].
+
+- [x] Explain the role and effect of damping factor (teleportation) in Page Rank computation \[5m\].
 
 - [x] Define PageRank. Using the web graph shown below compute the PageRank at every node at the end of the second iteration. Use teleport factor = 0.8 \[10m\].
 
@@ -156,15 +155,13 @@
 
 - [ ] Explain Girvan-Newman algorithm to mine Social Graphs.
 
-- [ ] Write steps of Girvan-Newman Algorithm. Explain clustering of Social-Network Graphs using GN algorithm with example? \[10m\].
+- [ ] Write steps of Girvan Newman Algorithm. Explain clustering of Social Network Graphs using GN algorithm with example? \[10m\].
 
 - [ ] Explain Social Network graph clustering algorithm with example \[10m\].
 
 - [ ] Give formal definition of the Nearest Neighbor problem. Show how finding plagiarism in documents is NN's problem. What similarity measures is used ? \[10m\]. How finding plagiarism in documents is a nearest neighbor problem \[5m\].
 
 - [ ] What are the shortcomings of nearest neighbor technique in collaborative filtering method? suggest some improvements \[5m\].
-
-- [ ] List down the steps in modified Page Rank Algorithm to avoid spider trap with one example \[10m\].
 
 - [ ] What is a "Community" in a Social Network Graph? Explain any one algorithm for finding communities in a Social Graph \[10m\]. What is a "Community" in a Social Network Graph? For the following graph show how the Girvan Newman algorithm finds the different communities \[10m\].
 
@@ -178,7 +175,7 @@
 	c) Compute the page rank of the nodes with teleportation $\beta=0.8$? (show two iterations only)
 
 ---
-## Unknown
+# Unknown
 
 - [ ] Find the jaccard distance and cosine distance between the following pairs of set: $X=(0,1,2,4,5,3) \; and \; Y=(5,6,7,9,10,8)$ \[5m\]
 

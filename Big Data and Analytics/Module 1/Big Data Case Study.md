@@ -1,3 +1,5 @@
+# Give two examples of big data case studies. Indicate which Vs are satisfied by these case studies.
+
 ## Volume
 
 Facebook is a massive social media platform with over 2.9 billion active users worldwide, generating vast amounts of data every day. The volume characteristics of big data in Facebook's case can be seen in the following ways:

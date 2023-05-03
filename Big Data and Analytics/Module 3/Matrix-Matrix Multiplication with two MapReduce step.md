@@ -1,3 +1,5 @@
+# Matrix-Matrix Multiplication with two MapReduce step
+
 If $M$ is a matrix with element $m_{ij}$ in row $i$ and column $j$, and $N$ is a matrix with element $n_{jk}$ in row $j$ and column $k$, then the product $P = MN$ is the matrix $P$ with element $p_{ik}$ in row $i$ and column $k$, where
 $$
 	p_{ik} = \sum\limits_{j} m_{ij}n_{jk}

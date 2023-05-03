@@ -1,6 +1,8 @@
+# Hadoop Ecosystem
+
 ![[Hadoop Ecosystem.png]]
 
-# Core Components
+## Core Components
 
 Hadoop is a distributed computing framework that enables the processing of large datasets across clusters of computers. The core components of Hadoop are:
 
@@ -12,9 +14,9 @@ Hadoop is a distributed computing framework that enables the processing of large
 
 Together, these components provide a distributed computing environment that can handle large-scale data processing and analysis.
 
-# Components
+## Components
 
-## HDFS
+### HDFS
 
 - HDFS (Hadoop Distributed File System) is the primary storage system used in the Hadoop ecosystem. 
 - It is a distributed file system that is designed to store and manage large volumes of data across multiple commodity servers.
@@ -26,7 +28,7 @@ Together, these components provide a distributed computing environment that can 
 - One of the key benefits of HDFS is its ability to scale horizontally by adding more commodity servers to the cluster. 
 - This allows organizations to store and process massive amounts of data without having to invest in expensive storage solutions.
 
-## MapReduce
+### MapReduce
 
 - MapReduce is a programming model and processing framework that is a core component of the Hadoop ecosystem. 
 - It is used to process and analyze large volumes of data in parallel across distributed computing resources.
@@ -37,7 +39,7 @@ Together, these components provide a distributed computing environment that can 
 - One of the key benefits of MapReduce is its ability to process and analyze massive amounts of data in parallel, making it ideal for big data applications. 
 - MapReduce is also highly flexible and can be used to implement a wide range of data processing tasks, including data cleansing, data aggregation, and machine learning.
 
-## HBase
+### HBase
 
 - HBase is a distributed NoSQL database that is a part of the Hadoop ecosystem. 
 - It is designed to store and manage massive amounts of structured data across multiple commodity servers.
@@ -49,7 +51,7 @@ Together, these components provide a distributed computing environment that can 
 - HBase is widely used in big data applications for storing and processing large volumes of structured data, including time-series data, sensor data, and log data. 
 - It is also commonly used in real-time applications, such as social media analytics and fraud detection.
 
-## Zookeeper 
+### Zookeeper 
 
 - Zookeeper is a distributed coordination service that is a part of the Hadoop ecosystem. 
 - It is a centralized service that is used to manage and coordinate distributed applications. 
@@ -60,7 +62,7 @@ Together, these components provide a distributed computing environment that can 
 - This includes information about the cluster topology, as well as settings for individual services such as HDFS and YARN. 
 - Zookeeper can also be used to coordinate the distributed processing of data by Hadoop applications.
 
-## Oozie
+### Oozie
 
 - Oozie is a workflow scheduler system for managing Hadoop jobs in the Hadoop ecosystem. 
 - It is used to define and run complex workflows that can involve multiple Hadoop jobs or other types of tasks.
@@ -72,7 +74,7 @@ Together, these components provide a distributed computing environment that can 
 - One of the key benefits of Oozie is that it enables users to automate and manage complex Hadoop workflows, which can be challenging to do manually. 
 - By using Oozie, users can schedule and execute workflows on a regular basis, as well as handle dependencies and error handling in a systematic manner.
 
-## Pig
+### Pig
 
 - Pig is a high-level data processing language and platform that is a part of the Hadoop ecosystem. 
 - It is designed to simplify the development of data processing workflows and make them more accessible to users who are not familiar with programming languages such as Java.
@@ -85,7 +87,7 @@ Together, these components provide a distributed computing environment that can 
 - One of the key benefits of Pig is its ease of use and accessibility. 
 - It allows users to define complex data processing tasks using a simple and intuitive syntax, making it easier to develop and maintain data processing workflows.
 
-## Mahout
+### Mahout
 
 - Mahout is a distributed machine learning library and platform that is a part of the Hadoop ecosystem. 
 - It is designed to provide scalable and efficient implementations of popular machine learning algorithms, such as clustering, classification, and recommendation systems. 
@@ -99,7 +101,7 @@ Together, these components provide a distributed computing environment that can 
 	- Recommendation algorithms such as collaborative filtering and item-based similarity
 - Mahout also provides a set of evaluation metrics and tools for measuring the performance of machine learning models and selecting the best algorithm for a given dataset.
 
-## Hive
+### Hive
 
 - Hive is a data warehousing and SQL-like query language that is a part of the Hadoop ecosystem. 
 - It provides a high-level interface to Hadoop and allows users to perform data analysis and extract insights from large volumes of data stored in Hadoop. 
@@ -112,7 +114,7 @@ Together, these components provide a distributed computing environment that can 
 - It allows users to perform complex data analysis tasks without having to learn complex programming languages, such as Java. 
 - Hive also supports integration with other Hadoop ecosystem components, such as Pig and Mahout, which allows users to combine the strengths of various components and build powerful data processing workflows.
 
-## Sqoop
+### Sqoop
 
 - Sqoop is a tool designed to transfer data between Hadoop and relational databases, such as MySQL, Oracle, and SQL Server. 
 - It is a part of the Hadoop ecosystem and allows users to import data from a relational database into Hadoop, as well as export data from Hadoop to a relational database. 

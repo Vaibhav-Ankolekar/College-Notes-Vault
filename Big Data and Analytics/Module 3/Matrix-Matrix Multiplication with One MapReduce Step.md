@@ -1,3 +1,5 @@
+# Matrix-Matrix Multiplication with One MapReduce Step
+
 There often is more than one way to use MapReduce to solve a problem. You may wish to use only a single MapReduce pass to perform matrix multiplication $P = MN$. It is possible to do so if we put more work into the two functions. Start by using the Map function to create the sets of matrix elements that are needed to compute each element of the answer $P$. Notice that an element of $M$ or $N$ contributes to many elements of the result, so one input element will be turned into many key-value pairs. The keys will be pairs $(i, k),$ where $i$ is a row of $M$ and $k$ is a column of N. Here is a synopsis of the Map and Reduce functions.
 
 The Map Function: For each element $m_{ij}$ of M, produce all the key-value

@@ -1,3 +1,5 @@
+# MapReduce Programming Mode
+
 Let us now consider in more detail how a program using MapReduce is executed. Below figure offers an outline of how processes, tasks, and files interact. Taking advantage of a library provided by a MapReduce system such as Hadoop, the user program forks a Master controller process and some number of Worker processes at different compute nodes. Normally, a Worker handles either Map tasks (*a Map worker*) or Reduce tasks (*a Reduce worker*), but not both.
 
 ![[MapReduce Programming Model.png]]

@@ -1,3 +1,5 @@
+# Features of Hadoop
+
 1. Fault Tolerance: Hadoop is designed to be fault-tolerant, which means that it can continue to operate even if one or more nodes in the cluster fail. This is achieved through data replication and by running multiple copies of data across the cluster. If one node fails, the system can continue to operate with the other nodes in the cluster.
 
 2. Distributed Processing: Hadoop is designed to perform distributed processing of large data sets. It distributes data and processing tasks across a cluster of commodity hardware, which can process large amounts of data in parallel. This enables faster processing and analysis of large data sets.

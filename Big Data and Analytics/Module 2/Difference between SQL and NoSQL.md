@@ -1,3 +1,4 @@
+# Difference between SQL and NoSQL
 
 |  | SQL | NoSQL |
 |-:|-|-|

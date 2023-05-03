@@ -1,3 +1,5 @@
+# Difference between NameNode and DataNode
+
 NameNode and DataNode are two key components of the Hadoop Distributed File System (HDFS). Here are the differences between NameNode and DataNode:
 
 |                 | NameNode                                                                                                                                     | DataNode |
