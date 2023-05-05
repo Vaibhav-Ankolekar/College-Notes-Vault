@@ -1,3 +1,5 @@
+# History of Bitcoin
+
 - Bitcoin was invented in 2008 with the publication of a paper title *Bitcoin: A Peer-to-Peer Electronic Cash System* written under the alias of *Satoshi Nakamoto*
 - Nakamoto combined b-money and HashCash to create completely decentralized electronic cash system
 - The key innovation was to use a distributed computation system (the PoW algorithm) to conduct a global *election* every 10 minutes, allowing the decentralized network to arrive at consensus about the state of transactions

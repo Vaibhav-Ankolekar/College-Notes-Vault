@@ -1,3 +1,5 @@
+# DBMS vs DSMS
+
 |  | DBMS | DSMS |
 |-:|-|-|
 | Data Type | DBMS is designed to manage persistent data in the form of relations | DSMS is designed to handle volatile data streams |

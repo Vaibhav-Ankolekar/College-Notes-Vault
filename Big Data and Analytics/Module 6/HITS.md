@@ -1,4 +1,4 @@
-# Hubs and Authorities
+ # Hubs and Authorities
 
 This hubs-and-authorities algorithm, sometimes called HITS (hyperlink-induced topic search), was originally intended not as a preprocessing step before handling search queries, as PageRank is, but as a step to be done along with the processing of a search query, to rank only the responses to that query.
 
@@ -25,42 +25,22 @@ Start with $h$ a vector of all 1’s.
 1. Compute $a = L^Th$ and then scale so the largest component is 1.
 2. Next, compute $h = La$ and scale again.
 
-Now, we have a new h and can repeat steps $(1)$ and $(2)$ until at some iteration
-the changes to the two vectors are sufficiently small that we can stop and accept
-the current values as the limit.
+Now, we have a new h and can repeat steps $(1)$ and $(2)$ until at some iteration the changes to the two vectors are sufficiently small that we can stop and accept the current values as the limit.
 
 **Example:** 
 
 ![[HITS example.png | 500]]
 
-Let us perform the first two iterations of the HITS algorithm
-on the Web of Fig. 5.18. In Fig. 5.20 we see the succession of vectors computed.
-The first column is the initial h, all 1’s. In the second column, we have estimated
-the relative authority of pages by computing LTh, thus giving each page the
-sum of the hubbinesses of its predecessors. The third column gives us the first
-estimate of a. It is computed by scaling the second column; in this case we
-have divided each component by 2, since that is the largest value in the second
-column.
+Let us perform the first two iterations of the HITS algorithm on the Web of Fig. 5.18. In Fig. 5.20 we see the succession of vectors computed. The first column is the initial h, all 1’s. In the second column, we have estimated the relative authority of pages by computing LTh, thus giving each page the sum of the hubbinesses of its predecessors. The third column gives us the first estimate of a. It is computed by scaling the second column; in this case we have divided each component by 2, since that is the largest value in the second column.
 
 ![[HITS example L.png | 600]]
 
-The fourth column is La. That is, we have estimated the hubbiness of each
-page by summing the estimate of the authorities of each of its successors. Then,
-the fifth column scales the fourth column. In this case, we divide by 3, since
-that is the largest value in the fourth column. Columns six through nine repeat
-the process outlined in our explanations for columns two through five, but with
-the better estimate of hubbiness given by the fifth column.
+The fourth column is La. That is, we have estimated the hubbiness of each page by summing the estimate of the authorities of each of its successors. Then, the fifth column scales the fourth column. In this case, we divide by 3, since that is the largest value in the fourth column. Columns six through nine repeat the process outlined in our explanations for columns two through five, but with the better estimate of hubbiness given by the fifth column.
 
 ![[HITS example h a.png | 500]]
 
-The limit of this process may not be obvious, but it can be computed by a
-simple program. The limits are:
+The limit of this process may not be obvious, but it can be computed by a simple program. The limits are:
 
 ![[HITS example limit.png | 330]]
 
-This result makes sense. First, we notice that the hubbiness of E is surely 0,
-since it leads nowhere. The hubbiness of C depends only on the authority of E
-and vice versa, so it should not surprise us that both are 0. A is the greatest
-hub, since it links to the three biggest authorities, B, C, and D. Also, B and
-C are the greatest authorities, since they are linked to by the two biggest hubs,
-A and D.
+This result makes sense. First, we notice that the hubbiness of E is surely 0, since it leads nowhere. The hubbiness of C depends only on the authority of E and vice versa, so it should not surprise us that both are 0. A is the greatest hub, since it links to the three biggest authorities, B, C, and D. Also, B and C are the greatest authorities, since they are linked to by the two biggest hubs, A and D.

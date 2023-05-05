@@ -1,0 +1,29 @@
+# What is Bitcoin
+
+- It is a collection of concepts and technologies that form the basis of a digital money ecosystem
+- Units of currency called *bitcoin* are used to store and transmit value among participants in the bitcoin network
+- Bitcoin protocol is used by Bitcoin users to communicate with each other
+- The bitcoin protocol stack can be run on a wide range of computing devices, including laptops and smartphones, making the technology easily accessible
+---
+- User can transfer bitcoin over the network to do anything that can be done with traditional currencies
+- Bitcoin can be purchased, sold, and exchanged for other currencies at specific currency exchange rate
+- Bitcoin is the perfect form of money for the Internet as it is fast, secure, and borderless
+---
+- Bitcoin are virtual, there are no physical coins or even digital coins
+- Users of bitcoin own keys that allow them to prove ownership of bitcoin in the bitcoin network
+- With these keys they can sign transactions to unlock the value and spend it by transferring it to a new owner
+- Keys are stored in a digital wallet on user's computer or smartphone
+---
+- Bitcoin is a distributed, peer-to-peer system
+- There is no *central* server or point of control
+- Bitcoins are created through a process called *mining*
+- Mining involves competing to find solutions to a mathematical problems with processing bitcoin transactions
+- Any participant in the bitcoin network can operate as a miner, using their computer's processing power to verify and record transactions
+- Miner is rewarded with new bitcoin after validating the transactions
+---
+- Bitcoin is the name of the protocol, a peer-to-peer network and a distributed computing innovation
+- Bitcoin consists of :
+	- A decentralized peer-to-peer network (the bitcoin protocol)
+	- A public transaction ledger (the blockchain)
+	- A set of rules for independent transaction validation and currency issuance (consensus rules)
+	- A mechanism for reaching global decentralized consensus on the valid blockchain (Proof-of-Work algorithm)

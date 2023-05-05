@@ -1,3 +1,5 @@
+# Bloom filter
+
 A Bloom filter is a data structure that offers a membership query mechanism where the answer to a lookup is one of two values: a definitive no, meaning that the item being looked up doesn’t exist in the Bloom filter, or a maybe, meaning that there’s a probability that the item exists. Bloom filters are popular due to their space efficiencies. They represent the existence of N elements requires much less than N positions in the data structure, which is why the membership query can yield false positive results. The amount of false positives in a Bloom filter can be tuned, which we’ll discuss shortly.
 
 Bloom filters are used in BigTable and in HBase to remove the need to read blocks from disk to determine if they contain a key. They’re also used in distributed network applications such as Squid to share cache details between its multiple instances without having to replicate the whole cache or incur a network I/O hit in the case of cache misses.

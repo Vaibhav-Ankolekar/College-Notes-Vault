@@ -1,22 +1,39 @@
+# Sustainable Development
+
 - Sustainable development is an organizing principle that aims to meet human development goals while also enabling natural systems to provide necessary natural resources and ecosystem services to humans.
+
 - The concept of sustainable development nowadays has a focus on economic development, social development, and environmental protection for future generations.
+
 - Sustainable development was first institutionalized with the Rio Process initiated at the 1992 Earth Summit in Rio de Janeiro.
+
 - In 2015, the United Nations General Assembly (UNGA) adopted the Sustainable Development Goals (2015 to 2030) and explained how the goals are integrated and indivisible to achieve sustainable development at the global level.
+
 - The UNGA's 17 goals address the global challenges, including poverty, inequality, climate change, environmental degradation, peace, and justice.
+
 - Sustainable development is interlinked with the normative concept of sustainability.
+
 - UNESCO formulated a distinction between the two concepts as follows: "Sustainability is often thought of as a long-term goal (i.e. a more sustainable world), while sustainable development refers to the many processes and pathways to achieve it."
+
 - The concept of sustainable development has been criticized in various ways.
+
 - While some see it as paradoxical (or as an oxymoron) and regard development as inherently unsustainable, others are disappointed in the lack of progress that has been achieved so far.
+
 - Part of the problem is that "development" itself is not consistently defined.
 
 # Need for Sustainable Development
 
 - **Protect Technological Resources:** The people coming into this world are coming into an increasingly technological age, where more people than ever are relying on technology for nearly every aspect of their lives, so we need to protect the technological resources.
+
 - **Provide Basic Human Needs:** A rising population will also make use of the bare essentials of life such as food, water, and shelter. The provision of these essentials is based almost entirely around having an infrastructure that can sustain them for the long-term.
+
 - **For Agricultural Necessity:** Sustainable agricultural practices like crop rotation and effective seeding practices can help to promote high yields while protecting the integrity of the soil as it produces food for larger amounts of people
+
 - **Accommodate City Development:** If cities use sustainable development practices, they can conceivably make way for new housing and business developments indefinitely.
+
 - **Control Climate Change:** Climate change is another issue that can be at least partially remedied through sustainable development As the population rises, more people will be requiring more energy and will be putting an even greater strain on the world climate.
+
 - **Provide Financial Stability:** As the population rises, more people will be requiring more energy and will be putting an even greater strain on the world climate.
+
 - **Sustain Biodiversity:** Biodiversity suffers through overconsumption and unsustainable development practices. Beyond the basic ethical quandary presented by this fact, there is the further concern that these species are a part of a food web that humans rely on.
 
 # Four Pillars of Sustainable Development
@@ -103,6 +120,7 @@ The 17 goals of sustainable development, also known as the Sustainable Developme
 
 1. No Poverty: End poverty in all its forms everywhere.
 2. Zero Hunger: End hunger, achieve food security and improved nutrition and promote sustainable agriculture.
+
 3. Good Health and Well-being: Ensure healthy lives and promote well-being for all at all ages.
 4. Quality Education: Ensure inclusive and equitable quality education and promote lifelong learning opportunities for all.
 5. Gender Equality: Achieve gender equality and empower all women and girls.

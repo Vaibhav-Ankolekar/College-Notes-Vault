@@ -1,3 +1,5 @@
+# What is Bitcoin
+
 - It is a collection of concepts and technologies that form the basis of a digital money ecosystem
 - Units of currency called *bitcoin* are used to store and transmit value among participants in the bitcoin network
 - Bitcoin protocol is used by Bitcoin users to communicate with each other

@@ -1,3 +1,5 @@
+# Elliptic Curve Cryptography
+
 - Elliptic Curve Digital Signature Algorithm or ECDSA is a cryptographic algorithm used by Bitcoin to ensure that funds can only be spent by their rightful owner
 - Bitcoin uses elliptic curve multiplication as the basis for its cryptography
 ---
@@ -24,7 +26,7 @@ $$y^2 = \frac{x^3+7}{F_p} \;\;\;\;\; or \;\;\;\;\; y^2 \; mod \; p = (x^3+7) \; 
 - It looks like a pattern of dots scattered in two dimensions, which makes it difficult to visualize
 - The math is identical to that of an elliptic curve over real numbers
 ---
-![[ecc_17.svg | 400]]
+![[ecc_17.svg | 450]]
 - The figure shows the same elliptic curve over a much smaller finite field of prime order 17, showing a pattern of dots on a grid
 ---
 For example
