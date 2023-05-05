@@ -1,3 +1,5 @@
+# Base58 and Base58Check Encoding
+
 - To represent long numbers in a compact way using fewer symbols, computer systems use mixed-alphanumeric representations with a base higher than 10
 - Traditional decimal systems uses 10 numerals from 0 to 9
 - Hexadecimal system uses 16, with the letters A to F as six additional symbols

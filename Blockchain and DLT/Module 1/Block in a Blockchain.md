@@ -1,3 +1,5 @@
+# Block in a Blockchain
+
 ![[blockchain-data-structure.svg]]
 
 ## Structure of a Block

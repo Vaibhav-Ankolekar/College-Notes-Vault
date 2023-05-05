@@ -1,3 +1,5 @@
+# Merkle Tree
+
 - Each block in the bitcoin blockchain contains a summary of all the transactions in the block using a *Merkle tree*
 - It is a binary tree in which the inputs are first placed at the leaves and then the values of pairs of child nodes are hashed together to produce a value for the parent node until a single hash value known as *Merkle root* is achieved
 - The cryptographic hash algorithm used in bitcoin's Merkle trees is SHA-256 applied twice, also known as double SHA-256

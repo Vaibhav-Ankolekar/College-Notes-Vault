@@ -1,3 +1,5 @@
+# Byzantine Generals Problem
+
 - A group of army generals who lead different parts of the Byzantine army are planning to attack or retreat from a city
 - The only way of communication is via a messenger
 - They need to agree to strike at the same time in order to win

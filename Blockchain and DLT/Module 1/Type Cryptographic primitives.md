@@ -1,3 +1,5 @@
+# Type Cryptographic primitives
+
 **Cryptographic primitives** 
 - They are the basic building blocks of a security protocol or system
 - They are used for securing a blockchain ecosystem

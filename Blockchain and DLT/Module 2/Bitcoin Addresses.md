@@ -1,3 +1,5 @@
+# Bitcoin Addresses
+
 - It is string of digits and characters that can be shared with anyone who wants to send you money
 - It is produced from public keys
 - It consist of a string of numbers and letters, beginning with the digit `1`

@@ -1,3 +1,5 @@
+# CAP theorem
+
 - The theory states that any distributed system cannot have all three of the much-desired properties simultaneously, i.e. Consistency, availability and partition tolerance
 
 	- **Consistency** is a property which ensures that all nodes in a distributed system have a single, current and identical copy of the data

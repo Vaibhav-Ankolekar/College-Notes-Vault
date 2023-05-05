@@ -1,3 +1,5 @@
+# Consensus Mechanism
+
 - backbone of blockchain
 - provides decentralization of control
 - choice of consensus algorithm is based on the type of blockchain used
@@ -9,9 +11,7 @@
 - To achieve consensus, different algorithms are used
 - It is easy to reach agreement between two nodes but difficult when multiple nodes are participating in a distributed system
 - The process of attaining agreement common state or value among multiple nodes despite the failure of some nodes is known as **Distributed consensus**
-
-## Consensus Mechanism
-
+---
 - It is a set of steps taken by most or all nodes in a blockchain to agree on a proposed state or value
 - There are various requirements that must be met to provide the desired results in a consensus mechanism
 - The following describes these requirements :
