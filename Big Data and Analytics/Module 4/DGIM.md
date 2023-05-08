@@ -14,7 +14,7 @@ We divide the window into *buckets*, consisting of:
 1. The timestamp of its right (most recent) end.
 2. The number of 1’s in the bucket. This number must be a power of 2, and we refer to the number of 1’s as the *size* of the bucket.
 
-To represent a bucket, we need $\log_2 N$ bits to represent the timestamp (modulo N) of its right end. To represent the number of 1’s we only need $\log_2 \log_2 N$ bits. The reason is that we know this number $i$ is a power of $2$, say $2^j$, so we can represent $i$ by coding $j$ in binary. Since $j$ is at most $\log_2 N$, it requires $\log_2 \log_2 N$ bits. Thus, $O(\log N)$ bits suffice to represent a bucket.
+To represent a bucket, we need $\log_2 N$ bits to represent the timestamp (modulo $N$) of its right end. To represent the number of 1’s we only need $\log_2 \log_2 N$ bits. The reason is that we know this number $i$ is a power of $2$, say $2^j$, so we can represent $i$ by coding $j$ in binary. Since $j$ is at most $\log_2 N$, it requires $\log_2 \log_2 N$ bits. Thus, $O(\log N)$ bits suffice to represent a bucket.
 
 There are six rules that must be followed when representing a stream by buckets.
 - The right end of a bucket is always a position with a 1.
