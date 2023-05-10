@@ -60,13 +60,16 @@
 	Find the frequent item sets purchased for such big data by using suitable
 ---
 # Module 6
+
+**Link Analysis : PageRank Definition, Structure of the web, dead ends, Using Page rank in a search engine, Efficient computation of Page Rank: PageRank Iteration Using MapReduce, Topic sensitive Page Rank, link Spam, Hubs and Authorities, HITS Algorithm.**
+
 - [x] Explain the steps of the HITS algorithm \[5m\]. Explain HITS algorithm with example \[10m\].
 - [x] Consider the web graph below with six pages (A, B, C, D, E, F) with directed links as follows. 
 	$A \to B,C$
 	$B \to A,D,E,F$
 	$C \to A,F$
 	Assume that the PageRank values for any page m at iteration 0 is $PR(m)=1$ and teleportation factor for iterations is $\beta=0.85$. Perform the page rank algorithm and determine the rank for every page at iteration 2. \[10m\]
-- [ ] List down the steps in modified Page Rank Algorithm to avoid spider trap with one example \[10m\].
+- [x] List down the steps in modified Page Rank Algorithm to avoid spider trap with one example \[10m\].
 - [x] What is the role and effect of Page Rank ? \[5m\] Explain PageRank algorithm with suitable example \[10m\].
 - [x] Explain the role and effect of damping factor (teleportation) in Page Rank computation \[5m\].
 - [x] Define PageRank. Using the web graph shown below compute the PageRank at every node at the end of the second iteration. Use teleport factor = 0.8 \[10m\].
@@ -85,34 +88,31 @@
 
 	![[HubAuthority Sum 1.svg]]
 
-- [ ] Explain collaborative filtering system. How is it different from content based system? \[10m\]. Define Collaborative filtering. Using an example of an e-commerce site like Flipkart or Amazon, describe how it can be used to provide recommendations to users \[10m\].
-
-- [ ] Explain different types of recommendation system with real time examples \[10m\]. What are different recommender systems. Explain any one with example \[10m\]. Explain different types of recommendation system with real time examples \[10m\]. Explain models for recommendation system in detail \[10m\].
-
-- [ ] How recommendation is done based on properties of product? Explain with suitable example \[10m\].
-
-- [ ] Explain Girvan-Newman algorithm to mine Social Graphs.
-
-- [ ] Write steps of Girvan Newman Algorithm. Explain clustering of Social Network Graphs using GN algorithm with example? \[10m\].
+**Mining Social-Network Graphs : Social Networks as Graphs, Types , Clustering of Social Network Graphs, Direct Discovery of Communities, Counting triangles using Map-Reduce.**
 
 - [ ] Explain Social Network graph clustering algorithm with example \[10m\].
-
-- [ ] Give formal definition of the Nearest Neighbor problem. Show how finding plagiarism in documents is NN's problem. What similarity measures is used ? \[10m\]. How finding plagiarism in documents is a nearest neighbor problem \[5m\].
-
-- [ ] What are the shortcomings of nearest neighbor technique in collaborative filtering method? suggest some improvements \[5m\].
-
+- [ ] Explain Girvan-Newman algorithm to mine Social Graphs.
+- [ ] Write steps of Girvan Newman Algorithm. Explain clustering of Social Network Graphs using GN algorithm with example? \[10m\].
 - [ ] What is a "Community" in a Social Network Graph? Explain any one algorithm for finding communities in a Social Graph \[10m\]. What is a "Community" in a Social Network Graph? For the following graph show how the Girvan Newman algorithm finds the different communities \[10m\].
-
 	![[Community Sum 1.svg]]
-
+- [ ] For the graph given below use betweenness factor and find all communities \[10m\].
+	![[Community Sum 2.svg]]
 - [ ] Consider a Portion of Web Graph shown below \[10m\].
-
 	![[HubAuthority Sum 2.svg]]
 	a) Compute the hub and authority scores for all the nodes.
 	b) Does this graph contains spider traps? Dead ends? If so, which nodes?
 	c) Compute the page rank of the nodes with teleportation $\beta=0.8$? (show two iterations only)
 
+
+**Recommendation Engines: A Model for Recommendation Systems, Content-Based Recommendations, Collaborative Filtering**
+
+- [ ] Explain different types of recommendation system with real time examples \[10m\]. What are different recommender systems. Explain any one with example \[10m\]. Explain different types of recommendation system with real time examples \[10m\]. Explain models for recommendation system in detail \[10m\].
+- [ ] How recommendation is done based on properties of product? Explain with suitable example \[10m\].
+- [ ] Explain collaborative filtering system. How is it different from content based system? \[10m\]. Define Collaborative filtering. Using an example of an e-commerce site like Flipkart or Amazon, describe how it can be used to provide recommendations to users \[10m\].
 ---
+- [ ] Give formal definition of the Nearest Neighbor problem. Show how finding plagiarism in documents is NN's problem. What similarity measures is used ? \[10m\]. How finding plagiarism in documents is a nearest neighbor problem \[5m\].
+- [ ] What are the shortcomings of nearest neighbor technique in collaborative filtering method? suggest some improvements \[5m\].
+
 # Unknown
 
 - [ ] Find the jaccard distance and cosine distance between the following pairs of set: $X=(0,1,2,4,5,3) \; and \; Y=(5,6,7,9,10,8)$ \[5m\]
@@ -129,26 +129,17 @@
 
 - [ ] Find Cosine Distance between d1 and d2 vector \[5m\]
 
-| index | d1 | d2 |
-| :-: | :-: | :-: |
-| 1 | 5 | 5 |
-| 2 | 2 | 2 |
-| 3 | 1 | 1 |
-| 4 | 0 | 0 |
-| 5 | 0 | 0 |
-| 6 | 0 | 1 |
-| 7 | 0 | 2 |
-| 8 | 1 | 2 |
-| 9 | 3 | 0 |
-| 10 | 7 | 2 |
+||||||||||||
+|:-:|-|-|-|-|-|-|-|-|-|-|
+|**index**|1|2|3|4|5|6|7|8|9|10|
+|**d1**|5|2|1|0|0|0|0|1|3|7|
+|**d2**|5|2|1|0|0|1|2|2|0|2|
 
 - [ ] Explain different distance measures for Big Data. \[5m\]
 
 - [ ] Explain CAP theorem? How is it different from ACID properties \[5m\]
 
-- [ ] For the graph given below use betweenness factor and find all communities \[10m\].
 
-	![[Community Sum 2.svg]]
 
 - [ ] Find Manhattan distance for the points X1=(1,2,2) and X2=(2,5,3)
 
