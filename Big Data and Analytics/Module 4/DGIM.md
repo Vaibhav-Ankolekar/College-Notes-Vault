@@ -60,9 +60,8 @@ Example : Suppose the stream is that of Fig. 4.2, and $k = 10$. Then the query a
 
 Our estimate of the number of 1’s in the last ten positions is thus 6. This number is the two buckets of size 1, the bucket of size 2, and half the bucket of size 4 that is partially within range. Of course the correct answer is 5.
 
-$$ 
-Count\;of\;1's = (1)+(2)+\left( 4 \times \frac{1}{2} \right) = 5 
-$$
+$$ Estimated\;count\;of\;1's = $$
+$$(1)+(1)+(2)+\left( 4 \times \frac{1}{2} \right) = 5 $$
 
 Suppose the above estimate of the answer to a query involves a bucket $b$ of size $2^j$ that is partially within the range of the query. Let us consider how far from the correct answer $c$ our estimate could be. There are two cases: the estimate could be larger or smaller than $c$.
 
