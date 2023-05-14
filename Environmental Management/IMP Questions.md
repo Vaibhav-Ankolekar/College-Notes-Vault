@@ -1,19 +1,19 @@
 ## Module 1
-1. Why is Sustainable Development given so much importance? Explain it through the four pillars of Sustainable Development.
-2. Define sustainable development? Elaborate.
-3. State the present scenario in case of Global Environmental issues.
-4. Explain knowledge of Environmental management at manager level? 
-5. Describe the energy scenario in India. Write a short note on Energy Scenario of India 
-6. Explain the Environmental Issues in India which require immediate attention. 
+1. Why is [[Sustainable Development]] given so much importance? Explain it through the four pillars of Sustainable Development.
+2. Define [[Sustainable Development]]? Elaborate.
+3. State the present scenario in case of [[Global Environmental issues]].
+4. Explain knowledge of Environmental management at [[Contemporary Managers|manager]] level? 
+5. Describe the energy scenario in India. Write a short note on [[Energy Scenario]] of India 
+6. Explain the [[Environmental Issues in India]] which require immediate attention. 
 
 ## Module 2
 1. What is Biomedical Hazard & waste? How is Biomedical waste treated.
-2. What is “hazardous waste‟? Explain briefly about the environmental problems and health risks caused by hazardous wastes. 
-3. What is meant by Ozone Depletion & Ozone Depletion layer? What is the mechanism of Ozone depletion?
-4. Explain endangered species. 
-5. Explain briefly Global warming and Green house gases. 
-6. What are the major pollutant that cause Acid Rain and why is Acid rain harmful? Explain with Example.
-7. Discuss the loss of Biodiversity and also state the link between Biodiversity and Climate Change.
+2. What is [[Hazardous Waste]]? Explain briefly about the environmental problems and health risks caused by hazardous wastes. 
+3. What is meant by [[Ozone Depletion]] & Ozone Depletion layer? What is the mechanism of Ozone depletion?
+4. Explain [[Endangered Species]]. 
+5. Explain briefly [[Global warming and Greenhouse gases]]. 
+6. What are the major pollutant that cause [[Acid Rain]] and why is Acid rain harmful? Explain with Example.
+7. Discuss the [[Loss of Biodiversity]] and also state the link between Biodiversity and Climate Change.
 
 ## Module 3
 1. Describe the components of an ecosystem.
@@ -28,9 +28,9 @@
 3. Explain in detail what is Corporate Environmental Responsibility? 
 
 ## Module 5
-1. What are the elements of ISO 14000 EMS ?
-2. Elaborate on ISO-14000 standard. 
-3. What are some of the potential benefits of an EMS based on ISO 14001 ? 
+1. What are the elements of [[IS0-14000]] EMS ?
+2. Elaborate on [[IS0-14000]] standard. 
+3. What are some of the potential benefits of an EMS based on [[IS0-14000|IS0-14001]] ? 
 4. Explain briefly about the key elements of an EMS. 
 5. Write short note on Total Quality Environmental Management 
 

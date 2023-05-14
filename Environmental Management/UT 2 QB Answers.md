@@ -4,30 +4,30 @@
 
 The stages of the EMS lifecycle process are as follows:
 
-1. ***Commitment and Policy*** - The top management of an organization is committed towards continuous improvement  to the environment and forms organizational environmental policies.
+1. **Commitment and Policy** - The top management of an organization is committed towards continuous improvement  to the environment and forms organizational environmental policies.
 
-2. ***Planning*** -  An organization must identify different environmental aspects to carry out its operations. Environmental aspects mainly cover hazardous waste and air pollutants that may cause harm to the environment. Then the organization lays down certain rules and regulations that need to be followed by its employees for its smooth functioning
+2. **Planning** -  An organization must identify different environmental aspects to carry out its operations. Environmental aspects mainly cover hazardous waste and air pollutants that may cause harm to the environment. Then the organization lays down certain rules and regulations that need to be followed by its employees for its smooth functioning
 
-3. ***Implementation*** - This stage is carried out in two steps. In the first step, an organization collects all its resources such as employees and financial resources and follows the action plan to achieve the set objectives. Its main aim is to provide quality training and awareness to all its employees. In the seconds step, the documentation process is done along with setting up of both internal and external communication channels.
+3. **Implementation** - This stage is carried out in two steps. In the first step, an organization collects all its resources such as employees and financial resources and follows the action plan to achieve the set objectives. Its main aim is to provide quality training and awareness to all its employees. In the seconds step, the documentation process is done along with setting up of both internal and external communication channels.
 
-4. ***Evaluation*** - In this stage, the current execution steps are evaluated to analyze the performance and whether the required objectives are achieved or not. If not, then corrective measures need to be taken to meet the objective.
+4. **Evaluation** - In this stage, the current execution steps are evaluated to analyze the performance and whether the required objectives are achieved or not. If not, then corrective measures need to be taken to meet the objective.
 
-5. ***Review*** - In this stage, the final computed result needs to analyzed by the top level management to verify that the EMS system is working or not. An organization should form policy without affecting any ethical values. Keeping its own values in mind. A review process creates a loop to improve organization goals.
+5. **Review** - In this stage, the final computed result needs to analyzed by the top level management to verify that the EMS system is working or not. An organization should form policy without affecting any ethical values. Keeping its own values in mind. A review process creates a loop to improve organization goals.
 
 ---
 ### Q2. List purposes of National Environment Policy 
 
 The National Environment Policy (NEP) is a framework designed to guide environmental management in a country. The primary objectives of NEP 2006 are:
 
-1. ***Conservation of critical environmental resources*** - NEP 2006 aims to protect critical natural resources such as water, forests, biodiversity, and ecosystems. It recognizes that these resources are vital to sustain life and essential for the economic and social well-being of the country.
+1. **Conservation of critical environmental resources** - NEP 2006 aims to protect critical natural resources such as water, forests, biodiversity, and ecosystems. It recognizes that these resources are vital to sustain life and essential for the economic and social well-being of the country.
 
-2. ***Intra-generational equity: Livelihood security for the poor*** - The policy recognizes the importance of social equity and aims to ensure that the benefits of development are distributed fairly among different sections of society. It particularly emphasizes the need to provide livelihood security to the poor, who are often the most vulnerable to environmental degradation and climate change.
+2. **Intra-generational equity: Livelihood security for the poor** - The policy recognizes the importance of social equity and aims to ensure that the benefits of development are distributed fairly among different sections of society. It particularly emphasizes the need to provide livelihood security to the poor, who are often the most vulnerable to environmental degradation and climate change.
 
-3. ***Efficiency in environmental resource use*** - NEP 2006 seeks to promote efficient use of environmental resources, including energy, water, land, and minerals, to ensure their sustainable use for future generations. It emphasizes the need for innovative and environmentally sound technologies to achieve this objective.
+3. **Efficiency in environmental resource use** - NEP 2006 seeks to promote efficient use of environmental resources, including energy, water, land, and minerals, to ensure their sustainable use for future generations. It emphasizes the need for innovative and environmentally sound technologies to achieve this objective.
 
-4. ***Environmental governance in the management of resources*** - The policy recognizes that effective environmental governance is critical for the sustainable management of natural resources. It aims to strengthen institutional frameworks, regulatory mechanisms, and public participation to ensure better environmental management and governance.
+4. **Environmental governance in the management of resources** - The policy recognizes that effective environmental governance is critical for the sustainable management of natural resources. It aims to strengthen institutional frameworks, regulatory mechanisms, and public participation to ensure better environmental management and governance.
 
-5. ***Enhancement of resources for environmental conservation*** - Finally, the policy recognizes the need to enhance financial, institutional, and human resources for environmental conservation. It seeks to promote partnerships between different stakeholders, including government, civil society, and the private sector, to mobilize resources and achieve the objectives of the policy.
+5. **Enhancement of resources for environmental conservation** - Finally, the policy recognizes the need to enhance financial, institutional, and human resources for environmental conservation. It seeks to promote partnerships between different stakeholders, including government, civil society, and the private sector, to mobilize resources and achieve the objectives of the policy.
 
 ---
 ### Q3. Write the roles of Central Pollution Control Board 
@@ -71,23 +71,23 @@ Corporate Environmental Responsibility (CER) refers to the environmental respons
 
 Corporate Environmental Responsibility (CER) involves identifying, mitigating, and evaluating the environmental impacts of a company's activities. Here are the three steps in more detail:
 
-1. ***Identify*** - The first step in CER is to identify the environmental impacts of a company's activities. This involves assessing the impact of the company's operations on the environment, including energy consumption, water usage, waste generation, and emissions.
-2. ***Mitigate*** - Once the environmental impacts have been identified, the next step is to mitigate them. This involves adopting sustainable practices and technologies to reduce the negative impact of the company's operations on the environment. Examples of mitigation measures include reducing energy consumption, increasing the use of renewable energy sources, minimizing waste generation, and reducing emissions.
-3. ***Evaluate*** - The final step in CER is to evaluate the effectiveness of the mitigation measures. This involves monitoring and measuring the environmental performance of the company and comparing it to the goals and objectives outlined in the environmental policy. Based on the evaluation, companies can identify areas for improvement and adjust their strategies accordingly.
+1. **Identify** - The first step in CER is to identify the environmental impacts of a company's activities. This involves assessing the impact of the company's operations on the environment, including energy consumption, water usage, waste generation, and emissions.
+2. **Mitigate** - Once the environmental impacts have been identified, the next step is to mitigate them. This involves adopting sustainable practices and technologies to reduce the negative impact of the company's operations on the environment. Examples of mitigation measures include reducing energy consumption, increasing the use of renewable energy sources, minimizing waste generation, and reducing emissions.
+3. **Evaluate** - The final step in CER is to evaluate the effectiveness of the mitigation measures. This involves monitoring and measuring the environmental performance of the company and comparing it to the goals and objectives outlined in the environmental policy. Based on the evaluation, companies can identify areas for improvement and adjust their strategies accordingly.
 ---
 ### Q6. Write the Roles and Objectives of Ministry of Environment and Forest
 
 The five main objectives of the MoEF are:
 
-1. ***Conservation and survey of flora, fauna, forests, and wildlife*** - The MoEF aims to conserve India's rich biodiversity, including its flora and fauna, through the protection and management of national parks, wildlife sanctuaries, and other protected areas. The ministry also conducts surveys and research to better understand India's biodiversity and inform conservation efforts.
+1. **Conservation and survey of flora, fauna, forests, and wildlife** - The MoEF aims to conserve India's rich biodiversity, including its flora and fauna, through the protection and management of national parks, wildlife sanctuaries, and other protected areas. The ministry also conducts surveys and research to better understand India's biodiversity and inform conservation efforts.
 
-2. ***Prevention and control of pollution*** - The MoEF is responsible for preventing and controlling various forms of pollution, including air, water, and soil pollution. The ministry develops and implements regulations and policies to regulate industrial emissions, vehicular emissions, and other sources of pollution.
+2. **Prevention and control of pollution** - The MoEF is responsible for preventing and controlling various forms of pollution, including air, water, and soil pollution. The ministry develops and implements regulations and policies to regulate industrial emissions, vehicular emissions, and other sources of pollution.
 
-3. ***Afforestation and regeneration of degraded areas*** - The MoEF aims to increase India's forest cover through afforestation and regeneration of degraded areas. This includes promoting community-based forest management and forest restoration efforts.
+3. **Afforestation and regeneration of degraded areas** - The MoEF aims to increase India's forest cover through afforestation and regeneration of degraded areas. This includes promoting community-based forest management and forest restoration efforts.
 
-4. ***Protection of environment*** -  The MoEF aims to protect the environment from various forms of degradation, including soil erosion, desertification, and deforestation. The ministry works to promote sustainable development practices that balance economic growth with environmental protection.
+4. **Protection of environment** -  The MoEF aims to protect the environment from various forms of degradation, including soil erosion, desertification, and deforestation. The ministry works to promote sustainable development practices that balance economic growth with environmental protection.
 
-5. ***Ensuring the welfare of animals*** - The MoEF is responsible for ensuring the welfare of animals in India, including livestock, wildlife, and domestic animals. The ministry works to prevent cruelty to animals and promote their conservation and protection.
+5. **Ensuring the welfare of animals** - The MoEF is responsible for ensuring the welfare of animals in India, including livestock, wildlife, and domestic animals. The ministry works to prevent cruelty to animals and promote their conservation and protection.
 
 ---
 ### Q7. Write a note on Environment Protect Act 1986
@@ -164,42 +164,42 @@ The Wildlife (Protection) Act, 1972 has divided the protection status of various
 
 The ISO 14000 series consists of a set of international standards related to environmental management. Here is a brief explanation of each of the ISO 14000 standards:
 
-1. ***ISO 14001: Environmental Management Systems (EMS)*** - This standard outlines the requirements for an organization to establish, implement, maintain, and continually improve an environmental management system. It provides a framework for organizations to manage their environmental responsibilities in a systematic and efficient manner.
+1. **ISO 14001: Environmental Management Systems (EMS)** - This standard outlines the requirements for an organization to establish, implement, maintain, and continually improve an environmental management system. It provides a framework for organizations to manage their environmental responsibilities in a systematic and efficient manner.
 
-2. ***ISO 14004: EMS - General Guidelines on Principles, Systems, and Support Techniques*** - This standard provides general guidelines on the principles, systems, and support techniques for environmental management systems. It provides guidance on how to implement and maintain an EMS based on the requirements of ISO 14001.
+2. **ISO 14004: EMS - General Guidelines on Principles, Systems, and Support Techniques** - This standard provides general guidelines on the principles, systems, and support techniques for environmental management systems. It provides guidance on how to implement and maintain an EMS based on the requirements of ISO 14001.
 
-3. ***ISO 14005: EMS - Guidelines for the phased implementation of an EMS, including the use of environmental performance evaluation*** - This standard provides guidelines for the phased implementation of an EMS, including the use of environmental performance evaluation. It can be used to help organizations to implement an EMS in a structured and planned manner.
+3. **ISO 14005: EMS - Guidelines for the phased implementation of an EMS, including the use of environmental performance evaluation** - This standard provides guidelines for the phased implementation of an EMS, including the use of environmental performance evaluation. It can be used to help organizations to implement an EMS in a structured and planned manner.
 
-4. ***ISO 14006: EMS - Guidelines for incorporating ecodesign*** - This standard provides guidelines for incorporating eco-design into an organization's environmental management system. It provides a framework for integrating environmental considerations into the design and development of products and services.
+4. **ISO 14006: EMS - Guidelines for incorporating ecodesign** - This standard provides guidelines for incorporating eco-design into an organization's environmental management system. It provides a framework for integrating environmental considerations into the design and development of products and services.
 
-5. ***ISO 14015: EM - Environmental Assessment of Sites and Organizations*** - This standard provides guidelines for the environmental assessment of sites and organizations. It provides a framework for assessing the environmental impacts of an organization's activities, products, and services.
+5. **ISO 14015: EM - Environmental Assessment of Sites and Organizations** - This standard provides guidelines for the environmental assessment of sites and organizations. It provides a framework for assessing the environmental impacts of an organization's activities, products, and services.
 
-6. ***ISO 14020: Environmental labels and declarations - General Principles*** - This standard provides general principles for environmental labeling and declarations. It provides a framework for the development of environmental labels and declarations, which can be used to provide information about the environmental impact of products and services.
+6. **ISO 14020: Environmental labels and declarations - General Principles** - This standard provides general principles for environmental labeling and declarations. It provides a framework for the development of environmental labels and declarations, which can be used to provide information about the environmental impact of products and services.
 
-7. ***ISO 14021: Environmental labels and declarations - Self-declared environmental claims*** - This standard provides guidelines for self-declared environmental claims. It provides a framework for organizations to make environmental claims about their products and services in a truthful and transparent manner.
+7. **ISO 14021: Environmental labels and declarations - Self-declared environmental claims** - This standard provides guidelines for self-declared environmental claims. It provides a framework for organizations to make environmental claims about their products and services in a truthful and transparent manner.
 
-8. ***ISO 14024: Environmental labels and declarations - Type I environmental labeling*** - This standard provides guidelines for type I environmental labeling. It provides a framework for the development and use of environmental labels that are independently certified.
+8. **ISO 14024: Environmental labels and declarations - Type I environmental labeling** - This standard provides guidelines for type I environmental labeling. It provides a framework for the development and use of environmental labels that are independently certified.
 
-9. ***ISO 14025: Environmental labels and declarations - Type III environmental declarations*** - This standard provides guidelines for type III environmental declarations. It provides a framework for the development and use of environmental declarations that provide detailed information about the environmental impact of products and services.
+9. **ISO 14025: Environmental labels and declarations - Type III environmental declarations** - This standard provides guidelines for type III environmental declarations. It provides a framework for the development and use of environmental declarations that provide detailed information about the environmental impact of products and services.
 
-10. ***ISO 14031: EM - Environmental Performance Evaluation*** - This standard provides guidelines for environmental performance evaluation. It provides a framework for assessing an organization's environmental performance and identifying opportunities for improvement.
+10. **ISO 14031: EM - Environmental Performance Evaluation** - This standard provides guidelines for environmental performance evaluation. It provides a framework for assessing an organization's environmental performance and identifying opportunities for improvement.
 
 ISO 14000 is a framework for environmental management that follows the Plan-Do-Check-Act (PDCA) cycle. This cycle is a systematic approach to continuous improvement that can be applied to any management system. Here is a breakdown of how the PDCA cycle applies to the ISO 14000 framework:
 
-1. ***Plan - Establish objectives and processes required*** 
+1. **Plan - Establish objectives and processes required** 
 	- In this phase, an organization establishes its environmental policy and objectives. 
 	- It identifies the environmental impacts of its activities, products or services, and sets targets for improvement. 
 	- The organization must also define the processes needed to achieve its objectives and ensure compliance with relevant legal and regulatory requirements.
 
-2. ***Do - Implement the processes*** 
+2. **Do - Implement the processes** 
 	- In this phase, the organization implements the processes and procedures that it has established in the planning phase. 
 	- This includes the training of employees, the establishment of communication channels, and the implementation of the procedures to control its environmental impacts.
 
-3. ***Check - Measure and monitor the processes and report results*** 
+3. **Check - Measure and monitor the processes and report results** 
 	- In this phase, the organization monitors and measures its environmental performance against its targets and objectives. 
 	- This includes checking compliance with legal and regulatory requirements, identifying and correcting non-conformities, and assessing the effectiveness of its management system.
 
-4. ***Act - Take action to improve performance of EMS based on results*** 
+4. **Act - Take action to improve performance of EMS based on results** 
 	- In this phase, the organization takes action to continuously improve its environmental performance based on the results of the check phase. 
 	- This may involve updating policies and objectives, modifying processes and procedures, providing additional training, or making other improvements to the management system.
 
@@ -212,20 +212,20 @@ Total Quality Environmental Management (TQEM) is an approach that integrates the
 
 The primary objectives of TQEM are to:
 
-1. ***Reduce waste and improve continuously*** - TQEM promotes waste reduction and continuous improvement in environmental performance through the implementation of effective environmental management systems.
+1. **Reduce waste and improve continuously** - TQEM promotes waste reduction and continuous improvement in environmental performance through the implementation of effective environmental management systems.
 
-2. ***Reduce resource depletion*** - TQEM encourages the efficient use of natural resources, such as water, energy, and raw materials, to minimize depletion and conserve natural resources for future generations.
+2. **Reduce resource depletion** - TQEM encourages the efficient use of natural resources, such as water, energy, and raw materials, to minimize depletion and conserve natural resources for future generations.
 
-3. ***Reduce or eliminate environmental pollution*** - TQEM aims to reduce or eliminate the release of harmful pollutants into the environment through the implementation of pollution prevention strategies and the adoption of cleaner production technologies.
+3. **Reduce or eliminate environmental pollution** - TQEM aims to reduce or eliminate the release of harmful pollutants into the environment through the implementation of pollution prevention strategies and the adoption of cleaner production technologies.
 
-4. ***Design products for minimal environmental impact in production, use, and disposal*** - TQEM encourages the development of environmentally friendly products that minimize their environmental impact throughout their entire lifecycle.
+4. **Design products for minimal environmental impact in production, use, and disposal** - TQEM encourages the development of environmentally friendly products that minimize their environmental impact throughout their entire lifecycle.
 
-5. ***Control environmental impact of raw material sourcing*** - TQEM focuses on controlling the environmental impact of raw material sourcing by promoting sustainable sourcing practices that minimize environmental degradation.
+5. **Control environmental impact of raw material sourcing** - TQEM focuses on controlling the environmental impact of raw material sourcing by promoting sustainable sourcing practices that minimize environmental degradation.
 
-6. ***Control environmental impact of new developments*** - TQEM aims to minimize the environmental impact of new developments, such as new products or services, by considering their environmental impact throughout their entire lifecycle.
+6. **Control environmental impact of new developments** - TQEM aims to minimize the environmental impact of new developments, such as new products or services, by considering their environmental impact throughout their entire lifecycle.
 
-7. ***Promote environmental awareness among employees*** - TQEM promotes environmental awareness among employees to ensure that they understand the importance of environmental protection and are committed to achieving the organization's environmental objectives.
+7. **Promote environmental awareness among employees** - TQEM promotes environmental awareness among employees to ensure that they understand the importance of environmental protection and are committed to achieving the organization's environmental objectives.
 
-8. ***Promote environmental awareness within the community*** - TQEM encourages organizations to engage with the local community to promote environmental awareness and involve them in the organization's environmental initiatives.
+8. **Promote environmental awareness within the community** - TQEM encourages organizations to engage with the local community to promote environmental awareness and involve them in the organization's environmental initiatives.
 
 ---

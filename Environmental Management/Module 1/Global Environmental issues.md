@@ -1,4 +1,5 @@
-  
+# Global Environmental issues
+
 ## 1. Climate Change
 
 Climate change is a global environmental issue that is caused by the accumulation of greenhouse gases, primarily carbon dioxide, in the Earth's atmosphere. It is largely due to human activities such as the burning of fossil fuels, deforestation, and industrial processes. The impacts of climate change are already being felt around the world, including rising sea levels, more frequent and intense extreme weather events, and shifts in the distribution of plant and animal species.

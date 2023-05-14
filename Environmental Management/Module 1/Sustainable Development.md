@@ -20,7 +20,7 @@
 
 - Part of the problem is that "development" itself is not consistently defined.
 
-# Need for Sustainable Development
+## Need for Sustainable Development
 
 - **Protect Technological Resources:** The people coming into this world are coming into an increasingly technological age, where more people than ever are relying on technology for nearly every aspect of their lives, so we need to protect the technological resources.
 
@@ -36,7 +36,9 @@
 
 - **Sustain Biodiversity:** Biodiversity suffers through overconsumption and unsustainable development practices. Beyond the basic ethical quandary presented by this fact, there is the further concern that these species are a part of a food web that humans rely on.
 
-# Four Pillars of Sustainable Development
+---
+
+## Four Pillars of Sustainable Development
 
 ![[pillars-of-sustaibability.svg]]
 
@@ -50,7 +52,7 @@ The concept of sustainable development is often described as having four pillars
 
 4. Cultural sustainability: This pillar recognizes the importance of preserving and promoting cultural diversity and heritage as an integral part of sustainable development. This includes respecting and valuing different cultural traditions and practices, as well as promoting cultural exchange and understanding.
 
-## 1. Economic Sustainability
+### 1. Economic Sustainability
 
 The first pillar of sustainable development, economic sustainability, recognizes the importance of promoting economic growth and development that is sustainable over the long term. In the context of environmental management, this pillar emphasizes the need for businesses and organizations to adopt practices that minimize negative impacts on the environment while still allowing for economic growth and development.
 
@@ -66,7 +68,7 @@ To achieve economic sustainability in environmental management, organizations ca
 
 By adopting these strategies and practices, organizations can promote economic sustainability while also ensuring that their environmental impacts are minimized, and natural resources are preserved for future generations.
 
-## 2. Social Sustainability
+### 2. Social Sustainability
 
 The second pillar of sustainable development, social sustainability, focuses on ensuring that human well-being and quality of life are maintained and improved over time. In the context of environmental management, this pillar emphasizes the need to consider the social impacts of environmental decisions and to promote social equity and inclusion.
 
@@ -82,7 +84,7 @@ To achieve social sustainability in environmental management, organizations can 
 
 By adopting these strategies and practices, organizations can promote social sustainability while also ensuring that their environmental impacts are minimized, and natural resources are preserved for future generations. This can help to create a more equitable and just society that is resilient and able to thrive in the face of environmental challenges.
 
-## 3. Environmental Sustainability
+### 3. Environmental Sustainability
 
 The third pillar of sustainable development, environmental sustainability, emphasizes the need to protect and preserve natural resources and ecosystems for the long-term benefit of current and future generations. In the context of environmental management, this pillar focuses on reducing negative environmental impacts and promoting sustainable resource use.
 
@@ -98,7 +100,7 @@ To achieve environmental sustainability in environmental management, organizatio
 
 By adopting these strategies and practices, organizations can promote environmental sustainability while also ensuring that their economic and social impacts are positive and sustainable. This can help to ensure that natural resources and ecosystems are preserved for future generations while promoting a more sustainable and resilient society.
 
-## 4. Human/Cultural Sustainability
+### 4. Human/Cultural Sustainability
 
 The fourth pillar of sustainable development, human or cultural sustainability, emphasizes the need to preserve and promote cultural diversity, heritage, and human well-being. In the context of environmental management, this pillar focuses on recognizing the importance of cultural values, traditions, and practices in environmental decision-making and promoting their integration with sustainability goals.
 
@@ -114,7 +116,9 @@ To achieve human or cultural sustainability in environmental management, organiz
 
 By adopting these strategies and practices, organizations can promote human or cultural sustainability while also ensuring that their economic, social, and environmental impacts are positive and sustainable. This can help to create a more inclusive and equitable society that is resilient and able to thrive in the face of environmental challenges.
 
-# Goals of Sustainable Development
+---
+
+## Goals of Sustainable Development
 
 The 17 goals of sustainable development, also known as the Sustainable Development Goals (SDGs), were adopted by the United Nations General Assembly in 2015 as a universal call to action to end poverty, protect the planet, and ensure that all people enjoy peace and prosperity. Here are the 17 SDGs:
 
