@@ -136,7 +136,7 @@ Overall, ISO and IEC standards are important in UI design because they provide a
 > $1$ = Cosmetic problem only: need not be fixed unless extra time is available
 > $2$ = Minor usability problem: fixing this should be given low priority
 > $3$ = Major usability problem: important to fix, so should be given high priority
-> $4$ = Usability catastrophe: imperative to fix this before product can be released
+> $4$ = Usability catastrophe: imperative to fix this before product is released
 
 - Once each evaluator has completed their separate assessment, all of the problems are collected and the mean severity ratings calculated. The design team will then determine the ones that are the most important and will receive attention first.
 

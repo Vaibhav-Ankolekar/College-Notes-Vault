@@ -123,3 +123,62 @@
 13. Preventing Mistakes Is Better Than Fixing Them
 14. Provide Informative Feedback
 15. Avoiding Dramatic Redesigns
+
+---
+# Module 6
+
+**4 W's of Evaluation**
+1. Why Evaluate?
+2. What to Evaluate?
+3. Where to Evaluate?
+4. When to Evaluate?
+
+**Types of Evaluation**
+1. Controlled settings involving users
+2. Natural settings involving users
+3. Any setting not involving users
+
+**Case Study of Evaluation**
+1. An experiment investigating a Computer Game
+	- Participant response when scoring a goal against a firend versus against the computer
+	- Participant response when engaging in a hockey match against a firend versus against the computer
+2. In the wild study of Skiers
+	- Skiers wore a helmet that had an accelerometer and a mini-camera on top of it
+	- Skiers can view thier data on smartphone that includes: map of their ski runs, distance covered, duration of descent, maximum speed, and the video recorded
+
+**Inspection methods for Interaction Design**
+1. Heuristic Evaluation
+2. Walkthroughs
+
+**Nielsen’s 10 Heuristics for Evaluation:**
+
+1. _Visibility of system status_ - Always keep users informed about what is going on, through appropriate feedback within reasonable time. For example, if a system operation will take some time, give an indication of how long and how much is complete.
+2. _Match between system and the real world_ - The system should speak the user’s language, with words, phrases and concepts familiar to the user, rather than system-oriented terms. Follow real-world conventions, making information appear in natural and logical order.
+3. _User control and freedom_ - Users often choose system functions by mistake and need a clearly marked ‘emergency exit’ to leave the unwanted state without having to go through an extended dialog. Support undo and redo.
+4. _Consistency and standards_ - Users should not have to wonder whether words, situations or actions mean the same thing in different contexts. Follow platform conventions and accepted standards.
+5. _Error prevention_ - Make it difficult to make errors. Even better than good error messages is a careful design that prevents a problem from occurring in the first place.
+6. _Recognition rather than recall_ - Make objects, actions and options visible. The user should not have to remember information from one part of the dialog to another. Instructions for use of the system should be visible or easily retrievable whenever appropriate.
+7. _Flexibility and efficiency of use_ - Allow users to tailor frequent actions. Accelerators – unseen by the novice user – may often speed up the interaction for the expert user to such an extent that the system can cater to both inexperienced and experienced users.
+8. _Aesthetic and minimalist design_ - Dialogs should not contain information that is irrelevant or rarely needed. Every extra unit of information in a dialog competes with the relevant units of information and diminishes their relative visibility.
+9. _Help users recognize, diagnose and recover from errors_ - Error messages should be expressed in plain language (no codes), precisely indicate the problem, and constructively suggest a solution.
+10. _Help and documentation_ - Few systems can be used with no instructions so it may be necessary to provide help and documentation. Any such information should be easy to search, focused on the user’s task, list concrete steps to be carried out, and not be too large.
+
+**Types of Walkthroughs**
+1. Cognitive walkthrough
+	- Involves simulating a user's problem-solving process at each step in the human-computer dialog, checking to see if the user's goal and memory for actions can be assured to lead to the next correct action
+2. Pluralistic walkthrough
+	- Users, developers and usability experts work together to step through a \[task\] scenario, discussing usability issues associated with dialog elements involved in the scenario steps
+
+**Predictive Models**
+- Fitts' Law
+- GOMS family of models
+
+**Fitts' Law**
+
+Fitts’ law states that:
+$T=k.\log_2(D/S+1.0)$
+where
+$T$ is time to move the pointer to a target
+$D$ is distance between the pointer and the target
+$S$ is size of the target
+$k$ is a constant of approximately 200 ms/bit.
