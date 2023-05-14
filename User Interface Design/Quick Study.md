@@ -1,3 +1,160 @@
+# Module 1
+
+**Good and Poor design example**
+- Voice mail system in Hotels
+- Remote control device
+
+**Components of Interaction Design**
+
+*Academic disciplines*
+- **E**rgonomics
+- **P**sycology/Cognitive Science
+- **D**esign
+- **I**nformatics
+- **E**ngineering
+- **C**omputer Science
+- **S**ocial Science
+
+*Design practices*
+- **G**raphic Design
+- **P**roduct Design
+- **A**rtist Design
+- **I**ndustrial Design
+- **F**ilm Industry
+
+*Other*
+- **U**biquitous
+- **H**uman Factor (HF)
+- **C**ognitive Engineering
+- **H**uman Computer Interaction (HCI)
+- **C**ognitive Ergonomics
+- **C**omputer Supported Cooperative Work (CSCW)
+- **I**nformation Systems
+
+**Process of Interaction Design**
+1. Establishing requirements
+2. Designing alternatives
+3. Prototyping
+4. Evaluating
+
+**Usability Goals**
+- Effectiveness - effective to use
+- Efficiency - efficient to use
+- Safety - safe to use
+- Utility - have good utility
+- Learnability - easy to learn
+- Memorablilty - easy to remember how to use
+
+**User Experience Goals**
+1. *Desirable aspects*
+	- Satisfying, Helpful, Fun,
+	- Enjoyable, Motivating, Provocative,
+	- Engaging, Callenging, Surprising,
+	- Pleasurable, Enhancing sociability
+2. *Undesirable aspects*
+	- Boring, Unpleasant, Frustrating,
+	- Patronizing, Making one feel guilty,
+	- Making one feel stupid, Annoying, 
+	- Cutesy, Childish, Gimmicky
+
+**Design Principles**
+- Visibility
+- Feedback
+- Constraints
+- Consistency
+- Affordance
+
+# Module 2
+
+**Components of Conceptual models**
+- Metaphors and analogies that convey to people how to understand what a product is for and how to use it for an activity (e.g. browsing, bookmarking)
+- The concepts that people are exposed to through the product, including the task-domain objects they create and manipulate, their attributes and the operations that can be performed on them. (e.g. saving, revisiting, organizing)
+- The relatonships between those concepts (e.g. whether one object contains another, the relative importance of actions to others and whether an object is part of another)
+- The mapping between the concepts and the user experience the product is designed to support or invoke (e.g. one can revisit through looking at a list of visited sites, most-frequently visited, or saved website)
+
+**Types of Interaction**
+- Instructing
+- Conversing
+- Manipulating
+- Exploring
+
+**Cognitive Frameworks**
+- Internal
+	1. Mental models
+	2. Gulf of execution and evaluation
+	3. Information processing
+- External
+	1. Distributed cognition
+	2. External cognition
+	3. Embodied interaction
+
+**Types of Social Interaction**
+- Face-to-face conversation
+- Remote conversation
+- Telepresence
+- Co-presence
+
+# Module 3
+
+**5 inssues of Data Gathering**
+- Setting Goals
+- Identifying Participants
+- Relationship between Participants (data collector and data provider)
+- Triangulation
+- Pilot Study
+
+**Different approaches of Data Recording**
+- Notes \+ Photographs
+- Audio \+ Photographs
+- Video
+
+**Data Gathering Techniques**
+1. Interviews
+2. Questionaires
+3. Observation
+
+**Types of Interviews**
+- Open-ended / Unstructured Interview
+- Structures Interview
+- Semi-Structured Interview
+- Focus Groups
+
+**Types of Data Analysis**
+- Quantitative Analysis
+- Qualitative Analysis
+
+**Simple Quantitaive Analysis**
+- Averages
+	- Mean
+	- Median
+	- Mode
+- Percentages
+
+**Simple Qualitative Analysis**
+- Identifying recurring patterns of themes
+- Categorizing data
+- Looking for critical incidents
+
+**Frameworks for Structuring the Analysis of Data gathered**
+- Grounded Theory
+- Distributed Cognition
+- Activity Theory
+
+**Techniques of Presenting the Findings**
+- Rigorous Notations
+- Using Stories
+- Summarizing
+
+**Task Description Types**
+- Scenarios
+- Use cases
+- Essential use cases / task cases
+
+**Type of Task Analysis**
+- Hierarchical Task Analysis (HTA)
+
+
+
 # Module 4
 
 **Types of Prototyping**
