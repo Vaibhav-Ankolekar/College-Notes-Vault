@@ -64,6 +64,8 @@
 - Consistency
 - Affordance
 
+---
+
 # Module 2
 
 **Components of Conceptual models**
@@ -93,6 +95,8 @@
 - Remote conversation
 - Telepresence
 - Co-presence
+
+---
 
 # Module 3
 
@@ -153,7 +157,7 @@
 **Type of Task Analysis**
 - Hierarchical Task Analysis (HTA)
 
-
+---
 
 # Module 4
 
@@ -186,6 +190,8 @@
 3. Is the interface metaphor easy to represent?
 4. Will your audience understant the metaphor?
 5. How extensible is the metaphor?
+
+---
 
 # Module 5
 
@@ -282,6 +288,7 @@
 15. Avoiding Dramatic Redesigns
 
 ---
+
 # Module 6
 
 **4 W's of Evaluation**
