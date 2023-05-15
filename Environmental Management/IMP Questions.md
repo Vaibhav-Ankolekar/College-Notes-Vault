@@ -7,7 +7,7 @@
 6. Explain the [[Environmental Issues in India]] which require immediate attention. 
 
 ## Module 2
-1. What is Biomedical Hazard & waste? How is Biomedical waste treated.
+1. What is [[Biomedical Hazard]] & waste? How is Biomedical waste treated.
 2. What is [[Hazardous Waste]]? Explain briefly about the environmental problems and health risks caused by hazardous wastes. 
 3. What is meant by [[Ozone Depletion]] & Ozone Depletion layer? What is the mechanism of Ozone depletion?
 4. Explain [[Endangered Species]]. 
@@ -16,7 +16,7 @@
 7. Discuss the [[Loss of Biodiversity]] and also state the link between Biodiversity and Climate Change.
 
 ## Module 3
-1. Describe the components of an ecosystem.
+1. Describe the components of an [[Ecosystem|ecosystem]].
 2. Describe the flow of Energy in an Ecosystem through an Energy Pyramid. 
 3. Define ecosystem. What are the biotic and abiotic components of an ecosystem? 
 4. What is a food chain? Distinguish between Grazing food chain and Detritus food chain 

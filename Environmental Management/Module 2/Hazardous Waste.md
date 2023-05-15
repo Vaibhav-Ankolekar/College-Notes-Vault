@@ -98,3 +98,21 @@ Hazardous waste is generated from many sources, ranging from industrial manufact
 2. **Surface Impediment**: Encapsulation, Fixation, or containment of the waste. This method involves arresting or demobilizing the movement or migration of waste by containing it in a hard core: clay soil, thermo plastic polymers, non-corrosive metallic containers etc. 
 3. **Deep well Injection** 
 4. **Ocean Dumping**
+
+# Problems caused by Hazardous waste
+
+Hazardous wastes pose significant environmental problems and health risks due to their toxic, corrosive, flammable, or reactive nature. Here's a brief explanation of the environmental problems and health risks associated with hazardous wastes:
+
+1. Environmental Problems:
+   - Soil Contamination: Improper disposal or leakage of hazardous wastes can contaminate soil, making it unsuitable for agriculture or affecting the natural ecosystem.
+   - Water Pollution: Hazardous wastes can infiltrate groundwater or be discharged into water bodies, contaminating drinking water sources and harming aquatic life.
+   - Air Pollution: Burning or incinerating certain hazardous wastes releases toxic gases and particulate matter, contributing to air pollution and potential respiratory problems.
+   - Biodiversity Loss: Hazardous waste contamination can disrupt ecosystems, leading to the loss of plant and animal species and affecting ecological balance.
+
+2. Health Risks:
+   - Acute Toxicity: Exposure to hazardous waste, whether through ingestion, inhalation, or skin contact, can cause immediate toxic effects such as nausea, vomiting, respiratory distress, or even death.
+   - Chronic Illnesses: Long-term exposure to hazardous wastes has been linked to various chronic health issues, including cancer, neurological disorders, reproductive problems, and organ damage.
+   - Occupational Hazards: Workers involved in the handling, treatment, or disposal of hazardous wastes are at risk of direct exposure, potentially leading to occupational illnesses and injuries.
+   - Community Health Impact: Improper management of hazardous wastes can impact nearby communities, especially those living in proximity to waste disposal sites, causing health problems among residents.
+
+To mitigate these risks, proper handling, storage, transportation, treatment, and disposal of hazardous wastes are essential. Strict regulations and guidelines exist in many countries to govern the management of hazardous wastes and minimize their environmental and health impacts. Additionally, public awareness and education programs play a crucial role in promoting responsible waste management practices and reducing the potential risks associated with hazardous wastes.
