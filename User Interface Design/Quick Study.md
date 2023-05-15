@@ -135,7 +135,7 @@
 - Percentages
 
 **Simple Qualitative Analysis**
-- Identifying recurring patterns of themes
+- Identifying recurring patterns or themes
 - Categorizing data
 - Looking for critical incidents
 
@@ -170,12 +170,12 @@
 - Vertical prototyping - providing lots of detail for only few functions
 
 **Principles of Conceptual Design**
-- Keep and open mind but never forget the users and their context
+- Keep an open mind but never forget the users and their context
 - Discuss ideas with other stakeholders as much as possible
 - Use prototyping to get rapid feedback
 - Iterate, iterate and iterate
 
-**Interface Design**
+**Interface Metaphor**
 - An interface metaphor is a visual or conceptual analogy that connects the user's mental model of a familiar object or environment to the operation of a software application. 
 - By using metaphors, designers can make complex software systems easier to use by leveraging the user's existing knowledge and experience.
 
@@ -186,9 +186,9 @@
 
 **Five Questions to ask for good metaphor**
 1. How much structure does the metaphor provide?
-2. How much of the metapgor is relevant to the problem?
+2. How much of the metaphor is relevant to the problem?
 3. Is the interface metaphor easy to represent?
-4. Will your audience understant the metaphor?
+4. Will your audience understand the metaphor?
 5. How extensible is the metaphor?
 
 ---
@@ -304,8 +304,8 @@
 
 **Case Study of Evaluation**
 1. An experiment investigating a Computer Game
-	- Participant response when scoring a goal against a firend versus against the computer
-	- Participant response when engaging in a hockey match against a firend versus against the computer
+	- Participant response when scoring a goal against a friend versus against the computer
+	- Participant response when engaging in a hockey match against a friend versus against the computer
 2. In the wild study of Skiers
 	- Skiers wore a helmet that had an accelerometer and a mini-camera on top of it
 	- Skiers can view thier data on smartphone that includes: map of their ski runs, distance covered, duration of descent, maximum speed, and the video recorded
