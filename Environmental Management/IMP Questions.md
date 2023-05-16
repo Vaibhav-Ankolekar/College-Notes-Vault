@@ -17,22 +17,22 @@
 
 ## Module 3
 1. Describe the components of an [[Ecosystem|ecosystem]].
-2. Describe the flow of Energy in an Ecosystem through an Energy Pyramid. 
-3. Define ecosystem. What are the biotic and abiotic components of an ecosystem? 
-4. What is a food chain? Distinguish between Grazing food chain and Detritus food chain 
-5. Explain Food Web with neat sketch. Give Example 
+2. Describe the flow of Energy in an Ecosystem through an [[Energy Pyramid]]. 
+3. Define [[Ecosystem|ecosystem]]. What are the biotic and abiotic components of an ecosystem? 
+4. What is a [[Food Chain|food chain]]? Distinguish between Grazing food chain and Detritus food chain 
+5. Explain [[Food Web]] with neat sketch. Give Example 
 
 ## Module 4
-1. Explain the Scope of Environment Management and what are the challenges faced in it?
+1. Explain the [[Scope of Environment Management]] and what are the challenges faced in it?
 2. What is the role and functions of Government as a planning and regulating agency in Environment Management? 
-3. Explain in detail what is Corporate Environmental Responsibility? 
+3. Explain in detail what is [[Corporate Environmental Responsibility]]? 
 
 ## Module 5
 1. What are the elements of [[IS0-14000]] EMS ?
 2. Elaborate on [[IS0-14000]] standard. 
 3. What are some of the potential benefits of an EMS based on [[IS0-14000|IS0-14001]] ? 
-4. Explain briefly about the key elements of an EMS. 
-5. Write short note on Total Quality Environmental Management 
+4. Explain briefly about the key elements of an [[EMS]]. 
+5. Write short note on [[TQEM|Total Quality Environmental Management]] 
 
 ## Module 6
 1. Give a brief account of Water (P & CP) Act.

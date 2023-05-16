@@ -6,9 +6,9 @@ The concept of ecosystem is possible at several scales of magnitude. From multic
 
 ## Components of Ecosystem 
 
-Biotic components are the living things that have a direct or indirect influence on other organisms in an environment. For example, plants, animals, and microorganisms and their waste materials. 
+**Biotic components** are the living things that have a direct or indirect influence on other organisms in an environment. For example, plants, animals, and microorganisms and their waste materials. 
 
-Abiotic components of an ecosystem include all chemical and physical elements i.e. non-living components. Abiotic components can vary from region to region, from one ecosystem to another. They mainly take up the role of life supporter. They determine and restrict the population growth, number, and diversity of biotic factors in an ecosystem. Hence they are called limiting factors.
+**Abiotic components** of an ecosystem include all chemical and physical elements i.e. non-living components. Abiotic components can vary from region to region, from one ecosystem to another. They mainly take up the role of life supporter. They determine and restrict the population growth, number, and diversity of biotic factors in an ecosystem. Hence they are called limiting factors.
 
 ## Types of Ecosystem 
 
